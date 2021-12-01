@@ -1,0 +1,38 @@
+{
+  "input-List": [
+    {
+      "placeholder": "Medicamentos"
+    },
+    {
+      "placeholder": "cn"
+    },
+    {
+      "placeholder": "(PVL/PVF)"
+    },
+    {
+      "placeholder": "Laboratorio"
+    },
+
+    {
+      "placeholder": "Margen-fijo"
+    }
+  ],
+  "medicamentos": [
+    {
+      "cn": "723310",
+      "description": "Vesicare 5 mg 30 comp. Cod. Antiguo 827279",
+      "Dto": "4%",
+      "laboratory": "Astellas",
+      "price": "14,99 €",
+      "iva": "4,5%"
+    },
+    {
+      "cn": "723309",
+      "description": "Vesicare 10 mg 30 comp. Cod. Antiguo 827212",
+      "Dto": "4%",
+      "laboratory": "Astellas",
+      "price": "28,30 €",
+      "iva": "4,5%"
+    }
+  ]
+}
