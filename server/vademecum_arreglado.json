@@ -1,0 +1,7054 @@
+{
+  "medicamentos": [
+    {
+      "cn": "696527",
+      "description": "Betmiga 50Mg 30 caps",
+      "discount": "4%",
+      "laboratory": "Astellas",
+      "referencePrice": "31.28125",
+      "tax": "4.5%",
+      "pvl": "28.9",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "723310",
+      "description": "Vesicare 5 mg 30 comp. Cod. Antiguo 827279",
+      "discount": "4%",
+      "laboratory": "Astellas",
+      "referencePrice": "14.9891774891775",
+      "tax": "4.5%",
+      "pvl": "13.85",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "723309",
+      "description": "Vesicare 10 mg 30 comp. Cod. Antiguo 827212",
+      "discount": "4%",
+      "laboratory": "Astellas",
+      "referencePrice": "28.3008658008658",
+      "tax": "4.5%",
+      "pvl": "26.15",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "658953",
+      "description": "Advagraf 0,5mg  30caps",
+      "discount": "4%",
+      "laboratory": "Astellas",
+      "referencePrice": "15.23",
+      "tax": "4.5%",
+      "pvl": "14.08",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "658954",
+      "description": "Advagraf 1mg  30caps",
+      "discount": "4%",
+      "laboratory": "Astellas",
+      "referencePrice": "30.48",
+      "tax": "4.5%",
+      "pvl": "28.16",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "658956",
+      "description": "Advagraf 1mg 60 caps",
+      "discount": "4%",
+      "laboratory": "Astellas",
+      "referencePrice": "60.94",
+      "tax": "4.5%",
+      "pvl": "56.31",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "662915",
+      "description": "Advagraf 3mg 30 caps",
+      "discount": "4%",
+      "laboratory": "Astellas",
+      "referencePrice": "91.42",
+      "tax": "4.5%",
+      "pvl": "84.47",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "658957",
+      "description": "Advagraf 5mg 30 caps",
+      "discount": "2%",
+      "laboratory": "Astellas",
+      "referencePrice": "148.32",
+      "tax": "4.5%",
+      "pvl": "140.78",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "651013",
+      "description": "Omnic Ocas 0,4 mg 30 comp",
+      "discount": "4%",
+      "laboratory": "Astellas",
+      "referencePrice": "7.60416666666667",
+      "tax": "4.5%",
+      "pvl": "7.02",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "673483",
+      "description": "Omnic 0,4mg 30 Caps",
+      "discount": "4%",
+      "laboratory": "Astellas",
+      "referencePrice": "7.60416666666667",
+      "tax": "4.5%",
+      "pvl": "7.02",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "885780",
+      "description": "Prograf 1 mg 60 caps",
+      "discount": "4%",
+      "laboratory": "Astellas",
+      "referencePrice": "49.875",
+      "tax": "4.5%",
+      "pvl": "46.08",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "888065",
+      "description": "Prograf 0,5 mg 30 caps",
+      "discount": "4%",
+      "laboratory": "Astellas",
+      "referencePrice": "12.46875",
+      "tax": "4.5%",
+      "pvl": "11.52",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "701917",
+      "description": "Vesomni 6 MG. 30 Comprimidos",
+      "discount": "4%",
+      "laboratory": "Astellas",
+      "referencePrice": "39.3333333333333",
+      "tax": "4.5%",
+      "pvl": "36.34",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "714014",
+      "description": "Zaldiar 37,5 mg 20 Comprimidos",
+      "discount": "3%",
+      "laboratory": "Grunenthal",
+      "referencePrice": "2.05627705627706",
+      "tax": "4.5%",
+      "pvl": "1.9",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "714048",
+      "description": "Zaldiar 37,5 mg 60 Compr",
+      "discount": "3%",
+      "laboratory": "Grunenthal",
+      "referencePrice": "6.16",
+      "tax": "4.5%",
+      "pvl": "5.69184",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "662457",
+      "description": "Zaldiar 37,5 mg 20 Compr efervescente",
+      "discount": "3%",
+      "laboratory": "Grunenthal",
+      "referencePrice": "2.05627705627706",
+      "tax": "4.5%",
+      "pvl": "1.9",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "700727",
+      "description": "Versatis 5% 20 apositos  C.N. Antiguo 667532",
+      "discount": "3%",
+      "laboratory": "Grunenthal",
+      "referencePrice": "54.0367965367965",
+      "tax": "4.5%",
+      "pvl": "49.93",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "700726",
+      "description": "Versatis 5% 30 apositos  C.N. Antiguo 667534",
+      "discount": "3%",
+      "laboratory": "Grunenthal",
+      "referencePrice": "81.0497835497835",
+      "tax": "4.5%",
+      "pvl": "74.89",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "891218",
+      "description": "Transtec 35 mcg 10 parches",
+      "discount": "3%",
+      "laboratory": "Grunenthal",
+      "referencePrice": "29.86",
+      "tax": "4.5%",
+      "pvl": "27.59",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "891168",
+      "description": "Transtec 35 mcg 5 parches",
+      "discount": "3%",
+      "laboratory": "Grunenthal",
+      "referencePrice": "14.95",
+      "tax": "4.5%",
+      "pvl": "13.8",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "891291",
+      "description": "Transtec 52,5 mcg 5 parches",
+      "discount": "3%",
+      "laboratory": "Grunenthal",
+      "referencePrice": "22.4",
+      "tax": "4.5%",
+      "pvl": "20.7",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "892901",
+      "description": "Transtec 70 mcg 5 parches",
+      "discount": "3%",
+      "laboratory": "Grunenthal",
+      "referencePrice": "29.87",
+      "tax": "4.5%",
+      "pvl": "27.6",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "651443",
+      "description": "Pazital 37,5 20 comprimidos",
+      "discount": "3%",
+      "laboratory": "Grunenthal",
+      "referencePrice": "2.05627705627706",
+      "tax": "4.5%",
+      "pvl": "1.9",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "651444",
+      "description": "Pazital 37,5 60 comprimidos",
+      "discount": "3%",
+      "laboratory": "Grunenthal",
+      "referencePrice": "6.16",
+      "tax": "4.5%",
+      "pvl": "5.69184",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "660079",
+      "description": "Arcoxia 30   28 comprimidos",
+      "discount": "3%",
+      "laboratory": "Grunenthal",
+      "referencePrice": "3.72",
+      "tax": "4.5%",
+      "pvl": "3.44",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "656532",
+      "description": "Arcoxia 60   28 comprimidos",
+      "discount": "3%",
+      "laboratory": "Grunenthal",
+      "referencePrice": "7.45",
+      "tax": "4.5%",
+      "pvl": "6.88",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "656533",
+      "description": "Arcoxia 90   28 comprimidos",
+      "discount": "3%",
+      "laboratory": "Grunenthal",
+      "referencePrice": "11.17",
+      "tax": "4.5%",
+      "pvl": "10.32",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "656534",
+      "description": "Arcoxia 120   7 comprimidos",
+      "discount": "3%",
+      "laboratory": "Grunenthal",
+      "referencePrice": "3.72",
+      "tax": "4.5%",
+      "pvl": "3.44",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "656746",
+      "description": "Fosavance 70 Ml/2800 UI",
+      "discount": "3%",
+      "laboratory": "Grunenthal",
+      "referencePrice": "12.42",
+      "tax": "4.5%",
+      "pvl": "11.48",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "660088",
+      "description": "Fosavance 70 Ml/5600 UI",
+      "discount": "3%",
+      "laboratory": "Grunenthal",
+      "referencePrice": "12.42",
+      "tax": "4.5%",
+      "pvl": "11.48",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "718239",
+      "description": "Pontalsic 37,5 Mg/ 325 Mg 20 comprimidos",
+      "discount": "3%",
+      "laboratory": "Grunenthal",
+      "referencePrice": "2.05627705627706",
+      "tax": "4.5%",
+      "pvl": "1.9",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "718486",
+      "description": "Pontalsic 37,5 Mg/ 325 Mg 60 comprimidos",
+      "discount": "3%",
+      "laboratory": "Grunenthal",
+      "referencePrice": "6.16",
+      "tax": "4.5%",
+      "pvl": "5.69184",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "664862",
+      "description": "Zomig 2,5 Mg� 6 comprimidos",
+      "discount": "3%",
+      "laboratory": "Grunenthal",
+      "referencePrice": "11.15",
+      "tax": "4.5%",
+      "pvl": "10.3026",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "852988",
+      "description": "Zomig Flas 2,5 Mg 6 comprimidos",
+      "discount": "3%",
+      "laboratory": "Grunenthal",
+      "referencePrice": "11.15",
+      "tax": "4.5%",
+      "pvl": "10.3026",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "780650",
+      "description": "Zomig Flas 5 Mg 6 comprimidos",
+      "discount": "3%",
+      "laboratory": "Grunenthal",
+      "referencePrice": "22.29",
+      "tax": "4.5%",
+      "pvl": "20.59596",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "715128",
+      "description": "Zomig 5 Mg soluci�n� spray",
+      "discount": "3%",
+      "laboratory": "Grunenthal",
+      "referencePrice": "14.84",
+      "tax": "4.5%",
+      "pvl": "13.71216",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "661011",
+      "description": "Axura 20 Mg. 56 comprimidos",
+      "discount": "3.5%",
+      "laboratory": "Merz Pharma",
+      "referencePrice": "92.7357512953368",
+      "tax": "4.5%",
+      "pvl": "92.74",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "661012",
+      "description": "Ebixa 20 Mg. 56 comprimidos",
+      "discount": "3.5%",
+      "laboratory": "Lundbeck",
+      "referencePrice": "100.28",
+      "tax": "4.5%",
+      "pvl": "92.74",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "702056",
+      "description": "Brintellix 5 Mg. 28 tabletas",
+      "discount": "3.5%",
+      "laboratory": "Lundbeck",
+      "referencePrice": "11.82",
+      "tax": "4.5%",
+      "pvl": "10.92",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "702057",
+      "description": "Brintellix 10 Mg. 28 tabletas",
+      "discount": "3.5%",
+      "laboratory": "Lundbeck",
+      "referencePrice": "23.63",
+      "tax": "4.5%",
+      "pvl": "21.84",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "722304",
+      "description": "Brintellix 15 Mg. 28 tabletas",
+      "discount": "3.5%",
+      "laboratory": "Lundbeck",
+      "referencePrice": "30.72",
+      "tax": "4.5%",
+      "pvl": "28.39",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "702058",
+      "description": "Brintellix 20 Mg. 28 tabletas",
+      "discount": "3.5%",
+      "laboratory": "Lundbeck",
+      "referencePrice": "37.82",
+      "tax": "4.5%",
+      "pvl": "34.94",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "682963",
+      "description": "Clopixol Depot. 200 Mg/Ml 1 amp.",
+      "discount": "3.5%",
+      "laboratory": "Lundbeck",
+      "referencePrice": "5.72",
+      "tax": "4.5%",
+      "pvl": "5.29",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "740456",
+      "description": "Deanxit 10 Mg. 30 comprimidos",
+      "discount": "3.5%",
+      "laboratory": "Lundbeck",
+      "referencePrice": "4.15",
+      "tax": "4.5%",
+      "pvl": "3.83",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "682591",
+      "description": "Prisdal 20 Mg. 28 comprimidos",
+      "discount": "3.5%",
+      "laboratory": "Lundbeck",
+      "referencePrice": "3.55",
+      "tax": "4.5%",
+      "pvl": "3.2802",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "832600",
+      "description": "Tebetane compuesto 60 c�psulas",
+      "discount": "3.5%",
+      "laboratory": "Biomed",
+      "referencePrice": "6.2",
+      "tax": "4.5%",
+      "pvl": "5.73",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "698271",
+      "description": "Tovanor Breezhaler 30 caps. inhal",
+      "discount": "3.5%",
+      "laboratory": "Gebro",
+      "referencePrice": "33.01",
+      "tax": "4.5%",
+      "pvl": "30.50124",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "700642",
+      "description": "Kentera 3,9 24 h. 8 parches",
+      "discount": "3.5%",
+      "laboratory": "Gebro",
+      "referencePrice": "28.14",
+      "tax": "4.5%",
+      "pvl": "26.00136",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "688677",
+      "description": "Diliban 75 20 comprimidos",
+      "discount": "3.5%",
+      "laboratory": "Gebro",
+      "referencePrice": "4.1017316017316",
+      "tax": "4.5%",
+      "pvl": "3.79",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "688678",
+      "description": "Diliban 75 60 comprimidos",
+      "discount": "3.5%",
+      "laboratory": "Gebro",
+      "referencePrice": "12.3160173160173",
+      "tax": "4.5%",
+      "pvl": "11.38",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "673211",
+      "description": "Metoject JER C/AG. 0.30 ML 15 MG.",
+      "discount": "3.5%",
+      "laboratory": "Gebro",
+      "referencePrice": "14.5238095238095",
+      "tax": "4.5%",
+      "pvl": "13.42",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "673212",
+      "description": "Metoject  JER C/AG. 0.40 ML. 20 MG.",
+      "discount": "3.5%",
+      "laboratory": "Gebro",
+      "referencePrice": "19.3722943722944",
+      "tax": "4.5%",
+      "pvl": "17.9",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "686302",
+      "description": "Metoject 12,5 Mg/0,25Ml",
+      "discount": "3.5%",
+      "laboratory": "Gebro",
+      "referencePrice": "12.1103896103896",
+      "tax": "4.5%",
+      "pvl": "11.19",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "673209",
+      "description": "Metoject JER C/AG. 0.20 ML 10 MG.",
+      "discount": "3.5%",
+      "laboratory": "Gebro",
+      "referencePrice": "9.68614718614719",
+      "tax": "4.5%",
+      "pvl": "8.95",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "673213",
+      "description": "Metoject  JER C/AG. 0.50 ML. 25 MG.",
+      "discount": "3.5%",
+      "laboratory": "Gebro",
+      "referencePrice": "21.92",
+      "tax": "4.5%",
+      "pvl": "20.25408",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "673208",
+      "description": "Metoject  7,5 ML/ 0,15 ML",
+      "discount": "3.5%",
+      "laboratory": "Gebro",
+      "referencePrice": "7.54",
+      "tax": "4.5%",
+      "pvl": "6.96696",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "680776",
+      "description": "Metoject 15 Mg. / 0,3 Ml. 4 jeringas",
+      "discount": "3.5%",
+      "laboratory": "Gebro",
+      "referencePrice": "58.11",
+      "tax": "4.5%",
+      "pvl": "53.69",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "680778",
+      "description": "Metoject 20 Mg. / 0.4 Ml. 4 jeringas",
+      "discount": "3.5%",
+      "laboratory": "Gebro",
+      "referencePrice": "73.81",
+      "tax": "4.5%",
+      "pvl": "68.2",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "702003",
+      "description": "Metoject PEN 15Mg /0,3 1 pluma",
+      "discount": "3.5%",
+      "laboratory": "Gebro",
+      "referencePrice": "14.52",
+      "tax": "4.5%",
+      "pvl": "13.42",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "715236",
+      "description": "Videsil 25000 UI ampollas",
+      "discount": "3.5%",
+      "laboratory": "Gebro",
+      "referencePrice": "10.82",
+      "tax": "4.5%",
+      "pvl": "9.99768",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "715238",
+      "description": "Videsil 50000 UI ampollas",
+      "discount": "",
+      "laboratory": "Gebro",
+      "referencePrice": "5",
+      "tax": "4.5%",
+      "pvl": "5",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "710691",
+      "description": "Paxiflas 37.5/325 Mg 60 comprimidos",
+      "discount": "3.5%",
+      "laboratory": "Gebro",
+      "referencePrice": "6.94",
+      "tax": "4.5%",
+      "pvl": "6.41",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "664770",
+      "description": "Salofalk 4 gr. 60 Ml. Enema",
+      "discount": "3.5%",
+      "laboratory": "Doctor Falk",
+      "referencePrice": "31.13",
+      "tax": "4.5%",
+      "pvl": "28.77",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "669362",
+      "description": "Ony Tec 8% barniz u�as",
+      "discount": "4%",
+      "laboratory": "Reig Jofre",
+      "referencePrice": "12.6839826839827",
+      "tax": "4.5%",
+      "pvl": "11.72",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "799668",
+      "description": "Otocerum",
+      "discount": "5%",
+      "laboratory": "Reig Jofre",
+      "referencePrice": "5.96",
+      "tax": "4.5%",
+      "pvl": "5.96",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "661250",
+      "description": "Cristalmina 100Mg/25 Ml Pulverizado",
+      "discount": "15%",
+      "laboratory": "Salvat",
+      "referencePrice": "3.78",
+      "tax": "4.5%",
+      "pvl": "3.78",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "787341",
+      "description": "Cristalmina soluci�n 25 Ml.",
+      "discount": "25%",
+      "laboratory": "Salvat",
+      "referencePrice": "3.78",
+      "tax": "4.5%",
+      "pvl": "3.78",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "661251",
+      "description": "Cristalmina soluci�n 10 Ml. Soluci�n 125 Ml.",
+      "discount": "20%",
+      "laboratory": "Salvat",
+      "referencePrice": "7.65",
+      "tax": "4.5%",
+      "pvl": "7.65",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "866103",
+      "description": "Cetraxal plus gotas 3 Mg 10 ml",
+      "discount": "",
+      "laboratory": "Salvat",
+      "referencePrice": "5.07",
+      "tax": "4.5%",
+      "pvl": "5.07",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "663837",
+      "description": "Monolitum Flash 30 Mg. 28 comp.",
+      "discount": "4%",
+      "laboratory": "Salvat",
+      "referencePrice": "10.2",
+      "tax": "4.5%",
+      "pvl": "10.2",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "656645",
+      "description": "Spiraxin 200 Mg. 12 comprimidos",
+      "discount": "3.5%",
+      "laboratory": "ALFA-SIGMA",
+      "referencePrice": "6.39",
+      "tax": "4.5%",
+      "pvl": "5.9",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "696450",
+      "description": "Diltiwas retard 120 Mg. 40 caps.",
+      "discount": "3.5%",
+      "laboratory": "ALFA-SIGMA",
+      "referencePrice": "8.44",
+      "tax": "4.5%",
+      "pvl": "7.8",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "959833",
+      "description": "Anafranil 25 Mg. 40 comprimidos",
+      "discount": "3.5%",
+      "laboratory": "ALFA-SIGMA",
+      "referencePrice": "2.31",
+      "tax": "4.5%",
+      "pvl": "2.13",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "695742",
+      "description": "Anafranil 75Mg 28 cap.",
+      "discount": "3.5%",
+      "laboratory": "ALFA-SIGMA",
+      "referencePrice": "5.22680412371134",
+      "tax": "4.5%",
+      "pvl": "4.83",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "949438",
+      "description": "Aterina 15 Mg. 60 c�psulas",
+      "discount": "3.5%",
+      "laboratory": "ALFA-SIGMA",
+      "referencePrice": "9.34",
+      "tax": "4.5%",
+      "pvl": "8.63",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "913368",
+      "description": "Dolak retard 30 comprimidos",
+      "discount": "3.5%",
+      "laboratory": "ALFA-SIGMA",
+      "referencePrice": "3.45",
+      "tax": "4.5%",
+      "pvl": "3.19",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "977769",
+      "description": "Verufil soluci�n t�pica 15 Ml.",
+      "discount": "5%",
+      "laboratory": "GSK",
+      "referencePrice": "3.67",
+      "tax": "4.5%",
+      "pvl": "3.67",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "944769",
+      "description": "ENO sal de frutas lim�n frasco 150 Ml.",
+      "discount": "",
+      "laboratory": "GSK",
+      "referencePrice": "4.59",
+      "tax": "4.5%",
+      "pvl": "4.59",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "997064",
+      "description": "ENO sal de frutas naranja frasco 150 Ml.",
+      "discount": "",
+      "laboratory": "GSK",
+      "referencePrice": "4.59",
+      "tax": "4.5%",
+      "pvl": "4.59",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "926758",
+      "description": "ENO sal de frutas normal frasco 150 Ml.",
+      "discount": "",
+      "laboratory": "GSK",
+      "referencePrice": "4.59",
+      "tax": "4.5%",
+      "pvl": "4.59",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "660691",
+      "description": "Calcium Sandoz D 100 Mg 880 UI 30 comprimidos efer.",
+      "discount": "",
+      "laboratory": "GSK",
+      "referencePrice": "5.08",
+      "tax": "4.5%",
+      "pvl": "5.08",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "717330",
+      "description": "Bicarbonato Torres Mu�oz 30 comprimidos",
+      "discount": "3%",
+      "laboratory": "GSK",
+      "referencePrice": "4.95",
+      "tax": "4.5%",
+      "pvl": "4.95",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "701285",
+      "description": "Voltadol Forte gel 50 Gr.",
+      "discount": "4%",
+      "laboratory": "GSK",
+      "referencePrice": "6.96",
+      "tax": "4.5%",
+      "pvl": "6.4",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "969659",
+      "description": "Zovirax crema 2 Gr.",
+      "discount": "4%",
+      "laboratory": "GSK",
+      "referencePrice": "2.98",
+      "tax": "4.5%",
+      "pvl": "2.75",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "661503",
+      "description": "Sevikar 20/5 mg 28 compr",
+      "discount": "3%",
+      "laboratory": "Daichii Sankyo",
+      "referencePrice": "7.43506493506493",
+      "tax": "4.5%",
+      "pvl": "6.87",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "661492",
+      "description": "Sevikar 40/5mg 28 compr",
+      "discount": "3%",
+      "laboratory": "Daichii Sankyo",
+      "referencePrice": "14.86",
+      "tax": "4.5%",
+      "pvl": "13.73",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "672025",
+      "description": "Sevikar 40MG/10mg compr",
+      "discount": "3%",
+      "laboratory": "Daichii Sankyo",
+      "referencePrice": "14.86",
+      "tax": "4.5%",
+      "pvl": "13.73",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "678643",
+      "description": "Sevikar HCT 20/5/12,5 mg 28 compr  recubierto",
+      "discount": "3%",
+      "laboratory": "Daichii Sankyo",
+      "referencePrice": "19.3505154639175",
+      "tax": "4.5%",
+      "pvl": "17.88",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "678647",
+      "description": "Sevikar HCT 40/5/12,5 mg 28 compr  recubierto",
+      "discount": "3%",
+      "laboratory": "Daichii Sankyo",
+      "referencePrice": "25.1546391752577",
+      "tax": "4.5%",
+      "pvl": "23.24",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "678657",
+      "description": "Sevikar HCT 40/5/25 mg 28 compr  recubierto",
+      "discount": "3%",
+      "laboratory": "Daichii Sankyo",
+      "referencePrice": "25.1546391752577",
+      "tax": "4.5%",
+      "pvl": "23.24",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "654844",
+      "description": "Sevikar HCT 40/10/12,5 mg 28 compr",
+      "discount": "3%",
+      "laboratory": "Daichii Sankyo",
+      "referencePrice": "26.1443298969072",
+      "tax": "4.5%",
+      "pvl": "24.15",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "654845",
+      "description": "Sevikar HCT 40/10/25 mg 28 compr",
+      "discount": "3%",
+      "laboratory": "Daichii Sankyo",
+      "referencePrice": "26.1443298969072",
+      "tax": "4.5%",
+      "pvl": "24.15",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "877530",
+      "description": "Olmetec 10 MG 28 compr",
+      "discount": "3%",
+      "laboratory": "Daichii Sankyo",
+      "referencePrice": "3.5",
+      "tax": "4.5%",
+      "pvl": "3.234",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "884684",
+      "description": "Olmetec 20 MG 28 compr",
+      "discount": "3%",
+      "laboratory": "Daichii Sankyo",
+      "referencePrice": "6.99",
+      "tax": "4.5%",
+      "pvl": "6.45876",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "884742",
+      "description": "Olmetec 40 MG 28 compr",
+      "discount": "3%",
+      "laboratory": "Daichii Sankyo",
+      "referencePrice": "13.98",
+      "tax": "4.5%",
+      "pvl": "12.91752",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "654124",
+      "description": "Olmetec Plus 20/12,5 28 compr",
+      "discount": "3%",
+      "laboratory": "Daichii Sankyo",
+      "referencePrice": "7",
+      "tax": "4.5%",
+      "pvl": "6.468",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "654140",
+      "description": "Olmetec Plus 20/25 28 compr",
+      "discount": "3%",
+      "laboratory": "Daichii Sankyo",
+      "referencePrice": "7",
+      "tax": "4.5%",
+      "pvl": "6.468",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "674888",
+      "description": "Olmetec Plus 40/12,5 28 compr",
+      "discount": "3%",
+      "laboratory": "Daichii Sankyo",
+      "referencePrice": "13.99",
+      "tax": "4.5%",
+      "pvl": "12.92676",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "674892",
+      "description": "Olmetec Plus 40/25  28 compr",
+      "discount": "3%",
+      "laboratory": "Daichii Sankyo",
+      "referencePrice": "13.99",
+      "tax": "4.5%",
+      "pvl": "12.92676",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "877654",
+      "description": "Openvas 10 Mg. 28 comprimidos",
+      "discount": "3%",
+      "laboratory": "Daichii Sankyo",
+      "referencePrice": "3.5",
+      "tax": "4.5%",
+      "pvl": "3.234",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "879106",
+      "description": "Openvas 20 Mg. 28 comprimidos",
+      "discount": "3%",
+      "laboratory": "Daichii Sankyo",
+      "referencePrice": "6.99",
+      "tax": "4.5%",
+      "pvl": "6.45876",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "882209",
+      "description": "Openvas 40 Mg. 28 comprimidos",
+      "discount": "3%",
+      "laboratory": "Daichii Sankyo",
+      "referencePrice": "13.98",
+      "tax": "4.5%",
+      "pvl": "12.91752",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "654141",
+      "description": "Openvas plus 20/12,5 28 comp.",
+      "discount": "3%",
+      "laboratory": "Daichii Sankyo",
+      "referencePrice": "7",
+      "tax": "4.5%",
+      "pvl": "6.468",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "654139",
+      "description": "Openvas plus 20/25 28 comp.",
+      "discount": "3%",
+      "laboratory": "Daichii Sankyo",
+      "referencePrice": "7",
+      "tax": "4.5%",
+      "pvl": "6.468",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "674878",
+      "description": "Openvas plus 40/12,5 28 comp.",
+      "discount": "3%",
+      "laboratory": "Daichii Sankyo",
+      "referencePrice": "13.99",
+      "tax": "4.5%",
+      "pvl": "12.92676",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "674883",
+      "description": "Openvas plus 40/25 28 comp.",
+      "discount": "3%",
+      "laboratory": "Daichii Sankyo",
+      "referencePrice": "13.99",
+      "tax": "4.5%",
+      "pvl": "12.92676",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "661483",
+      "description": "Capenon 20/5 Mg. 28 comprimidos",
+      "discount": "3%",
+      "laboratory": "Daichii Sankyo",
+      "referencePrice": "7.43506493506493",
+      "tax": "4.5%",
+      "pvl": "6.87",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "661490",
+      "description": "Capenon 40/5 Mg. 28 comprimidos",
+      "discount": "3%",
+      "laboratory": "Daichii Sankyo",
+      "referencePrice": "14.86",
+      "tax": "4.5%",
+      "pvl": "13.73064",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "672035",
+      "description": "Capenon 40/10 Mg. 28 comprimidos",
+      "discount": "3%",
+      "laboratory": "Daichii Sankyo",
+      "referencePrice": "14.86",
+      "tax": "4.5%",
+      "pvl": "13.73",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "707044",
+      "description": "Lixiana 60 Mg 28 comprimidos",
+      "discount": "3%",
+      "laboratory": "Daichii Sankyo",
+      "referencePrice": "56.36",
+      "tax": "4.5%",
+      "pvl": "52.08",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "707043",
+      "description": "Lixiana 30 Mg 28 comprimidos",
+      "discount": "3%",
+      "laboratory": "Daichii Sankyo",
+      "referencePrice": "56.36",
+      "tax": "4.5%",
+      "pvl": "52.08",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "700621",
+      "description": "Efient 10 Mg. 28 comprimidos",
+      "discount": "3%",
+      "laboratory": "Daichii Sankyo",
+      "referencePrice": "23.16",
+      "tax": "4.5%",
+      "pvl": "21.4",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "740969",
+      "description": "Somazina 1 gr. 10 ampollas 4 ml.",
+      "discount": "3.5%",
+      "laboratory": "FERRER",
+      "referencePrice": "11.2538860103627",
+      "tax": "4.5%",
+      "pvl": "10.4",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "826040",
+      "description": "Somazina 0,5 gr. 10 ampollas 4 ml.",
+      "discount": "3.5%",
+      "laboratory": "FERRER",
+      "referencePrice": "5.62694300518135",
+      "tax": "4.5%",
+      "pvl": "5.2",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "660152",
+      "description": "Somazina 1 gr. 10 sobres 10 4 ml.",
+      "discount": "3.5%",
+      "laboratory": "FERRER",
+      "referencePrice": "11.2331606217617",
+      "tax": "4.5%",
+      "pvl": "10.38",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "704557",
+      "description": "Somazina 1 gr. 30 sobres 10 4 ml.",
+      "discount": "3.5%",
+      "laboratory": "FERRER",
+      "referencePrice": "33.66",
+      "tax": "4.5%",
+      "pvl": "31.1",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "661529",
+      "description": "Velmetia 50 mg.",
+      "discount": "3.5%",
+      "laboratory": "FERRER",
+      "referencePrice": "39.03",
+      "tax": "4.5%",
+      "pvl": "36.06",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "700019",
+      "description": "Xoterna Breezhaler inhal. 30",
+      "discount": "3.5%",
+      "laboratory": "FERRER",
+      "referencePrice": "59.63",
+      "tax": "4.5%",
+      "pvl": "55.1",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "873166",
+      "description": "Omacor 100 c�psulas blandas",
+      "discount": "3.5%",
+      "laboratory": "FERRER",
+      "referencePrice": "28.56",
+      "tax": "4.5%",
+      "pvl": "26.39",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "873141",
+      "description": "Omacor 28 c�psulas blandas",
+      "discount": "3.5%",
+      "laboratory": "FERRER",
+      "referencePrice": "8",
+      "tax": "4.5%",
+      "pvl": "7.39",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "694633",
+      "description": "Xelevia 50 28 comprimidos",
+      "discount": "3.5%",
+      "laboratory": "FERRER",
+      "referencePrice": "19.39",
+      "tax": "4.5%",
+      "pvl": "17.92",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "660856",
+      "description": "Xelevia 100 28 comprimidos",
+      "discount": "3.5%",
+      "laboratory": "FERRER",
+      "referencePrice": "36.07",
+      "tax": "4.5%",
+      "pvl": "33.33",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "660857",
+      "description": "Xelevia 100 56 comprimidos",
+      "discount": "3.5%",
+      "laboratory": "FERRER",
+      "referencePrice": "72.14",
+      "tax": "4.5%",
+      "pvl": "66.66",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "701814",
+      "description": "Trinomia 100/20/2,50 28 comprimidos",
+      "discount": "3.5%",
+      "laboratory": "FERRER",
+      "referencePrice": "9.06",
+      "tax": "4.5%",
+      "pvl": "8.37",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "701817",
+      "description": "Trinomia 100/20/5 28 comprimidos",
+      "discount": "3.5%",
+      "laboratory": "FERRER",
+      "referencePrice": "10.69",
+      "tax": "4.5%",
+      "pvl": "9.87",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "701820",
+      "description": "Trinomia 100/20/10 28 comprimidos",
+      "discount": "3.5%",
+      "laboratory": "FERRER",
+      "referencePrice": "14.04",
+      "tax": "4.5%",
+      "pvl": "12.97",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "714975",
+      "description": "Trinomia 100/40/10 28 comp.",
+      "discount": "3.5%",
+      "laboratory": "FERRER",
+      "referencePrice": "20.42",
+      "tax": "4.5%",
+      "pvl": "18.87",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "714973",
+      "description": "Trinomia 100/40/2,5 28 comp.",
+      "discount": "3.5%",
+      "laboratory": "FERRER",
+      "referencePrice": "15.44",
+      "tax": "4.5%",
+      "pvl": "14.27",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "714974",
+      "description": "Trinomia 100/40/5 28 comp.",
+      "discount": "3.5%",
+      "laboratory": "FERRER",
+      "referencePrice": "17.07",
+      "tax": "4.5%",
+      "pvl": "15.77",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "698537",
+      "description": "Enurev Breezhaler 44 microgramos inhal",
+      "discount": "3.5%",
+      "laboratory": "FERRER",
+      "referencePrice": "33.01",
+      "tax": "4.5%",
+      "pvl": "30.5",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "916007",
+      "description": "Hemovas lib. Prol. 600 Mg. 60",
+      "discount": "3.5%",
+      "laboratory": "FERRER",
+      "referencePrice": "6.45",
+      "tax": "4.5%",
+      "pvl": "5.96",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "917344",
+      "description": "Hemovas 400 60 grageas",
+      "discount": "3.5%",
+      "laboratory": "FERRER",
+      "referencePrice": "4.3",
+      "tax": "4.5%",
+      "pvl": "3.97",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "700570",
+      "description": "Higrotona  50 Mg. 50 comprimidos",
+      "discount": "3.5%",
+      "laboratory": "FERRER",
+      "referencePrice": "1.69",
+      "tax": "4.5%",
+      "pvl": "1.56156",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "731679",
+      "description": "Eneas tabletas 10 Mg. 30",
+      "discount": "3.5%",
+      "laboratory": "FERRER",
+      "referencePrice": "16.35",
+      "tax": "4.5%",
+      "pvl": "15.11",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "817817",
+      "description": "Sutril 10 Mg. 30 comprimidos",
+      "discount": "3.5%",
+      "laboratory": "FERRER",
+      "referencePrice": "3.67",
+      "tax": "4.5%",
+      "pvl": "3.39",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "817353",
+      "description": "Sutril 5 Mg. 30 comprimidos",
+      "discount": "3.5%",
+      "laboratory": "FERRER",
+      "referencePrice": "1.84",
+      "tax": "4.5%",
+      "pvl": "1.7",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "655930",
+      "description": "Sutril Neo 10 Mg. liberaci�n prol.",
+      "discount": "3.5%",
+      "laboratory": "FERRER",
+      "referencePrice": "3.67",
+      "tax": "4.5%",
+      "pvl": "3.39108",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "655926",
+      "description": "Sutril Neo 5 Mg. liberaci�n prol.",
+      "discount": "3.5%",
+      "laboratory": "FERRER",
+      "referencePrice": "1.84",
+      "tax": "4.5%",
+      "pvl": "1.7",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "666248",
+      "description": "N�cleo compuesto Forte 30 c�psulas",
+      "discount": "3.5%",
+      "laboratory": "FERRER",
+      "referencePrice": "10.4",
+      "tax": "4.5%",
+      "pvl": "9.6096",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "715722",
+      "description": "Acalka 1080 Mg. 100 comprimidos",
+      "discount": "",
+      "laboratory": "FERRER",
+      "referencePrice": "13.43",
+      "tax": "4.5%",
+      "pvl": "13.43",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "667857",
+      "description": "Ciclochem soluci�n u�as 3G",
+      "discount": "3.5%",
+      "laboratory": "FERRER",
+      "referencePrice": "5.42",
+      "tax": "4.5%",
+      "pvl": "5.19",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "656346",
+      "description": "Ciclochem champ� 100 ml.",
+      "discount": "3.5%",
+      "laboratory": "FERRER",
+      "referencePrice": "9.14",
+      "tax": "4.5%",
+      "pvl": "8.45",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "656642",
+      "description": "Peitel crema 30 gr.",
+      "discount": "3.5%",
+      "laboratory": "FERRER",
+      "referencePrice": "3.50649350649351",
+      "tax": "4.5%",
+      "pvl": "3.24",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "656643",
+      "description": "Peitel crema 60 gr.",
+      "discount": "3.5%",
+      "laboratory": "FERRER",
+      "referencePrice": "7.02",
+      "tax": "4.5%",
+      "pvl": "6.48",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "697794",
+      "description": "Prospantus jarabe 21 sobres",
+      "discount": "50%",
+      "laboratory": "FERRER",
+      "referencePrice": "4.4",
+      "tax": "4.5%",
+      "pvl": "4.4",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "715240",
+      "description": "Gelocatil 1 gr 10 compr",
+      "discount": "8%",
+      "laboratory": "FERRER",
+      "referencePrice": "1.95",
+      "tax": "4.5%",
+      "pvl": "1.95",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "672653",
+      "description": "Gelocatil 650 Mg 12 compr. Tiras",
+      "discount": "8%",
+      "laboratory": "FERRER",
+      "referencePrice": "1.85",
+      "tax": "4.5%",
+      "pvl": "1.85",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "715242",
+      "description": "Gelocatil 1 gr 10 sobres soluci�n oral",
+      "discount": "8%",
+      "laboratory": "FERRER",
+      "referencePrice": "3.2",
+      "tax": "4.5%",
+      "pvl": "3.2",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "839720",
+      "description": "Gelocatil gripe forte con fenilefrina",
+      "discount": "33%",
+      "laboratory": "FERRER",
+      "referencePrice": "5.09",
+      "tax": "4.5%",
+      "pvl": "5.09",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "886200",
+      "description": "Gelocatil gripe con pseudoefedrina 20 comprimidos",
+      "discount": "8%",
+      "laboratory": "FERRER",
+      "referencePrice": "4.96",
+      "tax": "4.5%",
+      "pvl": "4.96",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "650822",
+      "description": "Prospantus jarabe 100 ml.",
+      "discount": "8%",
+      "laboratory": "FERRER",
+      "referencePrice": "4.77",
+      "tax": "4.5%",
+      "pvl": "4.77",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "917914",
+      "description": "Anginovag aerosol 20 ml.",
+      "discount": "8%",
+      "laboratory": "FERRER",
+      "referencePrice": "5.22",
+      "tax": "4.5%",
+      "pvl": "5.22",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "159948",
+      "description": "Om3gafort premium DHA 60 c�psulas",
+      "discount": "20%",
+      "laboratory": "FERRER",
+      "referencePrice": "14.85",
+      "tax": "11.4%",
+      "pvl": "14.85",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "160394",
+      "description": "OTC Antipiojos Kit 123 (loc. Acond. Spray)",
+      "discount": "50%",
+      "laboratory": "FERRER",
+      "referencePrice": "19.5",
+      "tax": "26.2%",
+      "pvl": "19.5",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "180301",
+      "description": "Repavar regeneradora Aceite 15 ml. Gotas",
+      "discount": "8%",
+      "laboratory": "FERRER",
+      "referencePrice": "12.8",
+      "tax": "26.2%",
+      "pvl": "12.8",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "348821",
+      "description": "Repavar regeneradora Rosa mosqueta 15 Ml",
+      "discount": "8%",
+      "laboratory": "FERRER",
+      "referencePrice": "7.15",
+      "tax": "26.2%",
+      "pvl": "7.15",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "159953",
+      "description": "Repavar revitalizante Ampolla efect. Flash 1*1,5 Ml",
+      "discount": "20%",
+      "laboratory": "FERRER",
+      "referencePrice": "2.26",
+      "tax": "26.2%",
+      "pvl": "2.26",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "159956",
+      "description": "Repavar revitalizante Ampolla efect. Flash 20*1,5 Ml",
+      "discount": "20%",
+      "laboratory": "FERRER",
+      "referencePrice": "17.64",
+      "tax": "26.2%",
+      "pvl": "17.64",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "700680",
+      "description": "Dolquine 200 mg 30 caps   Ant 685173",
+      "discount": "",
+      "laboratory": "Rubio",
+      "referencePrice": "7.79",
+      "tax": "4.5%",
+      "pvl": "7.79",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "650828",
+      "description": "Resincalcio 15 Gr. 26 sobres",
+      "discount": "",
+      "laboratory": "Rubio",
+      "referencePrice": "18.56",
+      "tax": "4.5%",
+      "pvl": "18.57",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "824284",
+      "description": "Resincolestiramina 50 sobres",
+      "discount": "",
+      "laboratory": "Rubio",
+      "referencePrice": "17.95",
+      "tax": "4.5%",
+      "pvl": "17.95",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "795831",
+      "description": "Coropres 25 Mg 28 comprimidos",
+      "discount": "",
+      "laboratory": "Rubio",
+      "referencePrice": "3.87",
+      "tax": "4.5%",
+      "pvl": "3.87",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "676460",
+      "description": "Coropres 6,25 Mg 28 comprimidos",
+      "discount": "",
+      "laboratory": "Rubio",
+      "referencePrice": "1.6",
+      "tax": "4.5%",
+      "pvl": "1.6",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "663411",
+      "description": "Rubifen 10 Mg. 30 comprimidos",
+      "discount": "",
+      "laboratory": "Rubio",
+      "referencePrice": "3.1",
+      "tax": "4.5%",
+      "pvl": "3.1",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "663412",
+      "description": "Rubifen 20 Mg. 30 comprimidos",
+      "discount": "",
+      "laboratory": "Rubio",
+      "referencePrice": "3.66",
+      "tax": "4.5%",
+      "pvl": "3.66",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "838755",
+      "description": "Testogel 50 Mg.� 30 sobres 5 Gr.",
+      "discount": "5%",
+      "laboratory": "Rubio",
+      "referencePrice": "33.9",
+      "tax": "4.5%",
+      "pvl": "33.9",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "661535",
+      "description": "Balzak 20 Mg/ 5 Mg 28 comprimidos",
+      "discount": "3.5%",
+      "laboratory": "Menarini",
+      "referencePrice": "7.43506493506493",
+      "tax": "4.5%",
+      "pvl": "6.87",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "661534",
+      "description": "Balzak 40 Mg/ 5 Mg 28 comprimidos",
+      "discount": "3.5%",
+      "laboratory": "Menarini",
+      "referencePrice": "14.86",
+      "tax": "4.5%",
+      "pvl": "13.73",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "672044",
+      "description": "Balzak 40 Mg/ 10 Mg 28 comprimidos",
+      "discount": "3.5%",
+      "laboratory": "Menarini",
+      "referencePrice": "14.86",
+      "tax": "4.5%",
+      "pvl": "13.73",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "678596",
+      "description": "Balzak Plus 20/5/12,5 mg 28 comprimidos",
+      "discount": "3.5%",
+      "laboratory": "Menarini",
+      "referencePrice": "19.35",
+      "tax": "4.5%",
+      "pvl": "17.88",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "678601",
+      "description": "Balzak Plus 40/5/12,5 mg 28 comprimidos",
+      "discount": "3.5%",
+      "laboratory": "Menarini",
+      "referencePrice": "25.15",
+      "tax": "4.5%",
+      "pvl": "23.24",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "679055",
+      "description": "Balzak Plus 40/5/25 mg 28 comprimidos",
+      "discount": "3.5%",
+      "laboratory": "Menarini",
+      "referencePrice": "25.15",
+      "tax": "4.5%",
+      "pvl": "23.24",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "654846",
+      "description": "Balzak Plus 40/10/25 mg 28 comprimidos",
+      "discount": "3.5%",
+      "laboratory": "Menarini",
+      "referencePrice": "26.14",
+      "tax": "4.5%",
+      "pvl": "24.15",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "672819",
+      "description": "Ibis 20 mg 20 cpr",
+      "discount": "3.5%",
+      "laboratory": "Menarini",
+      "referencePrice": "8.88",
+      "tax": "4.5%",
+      "pvl": "8.2",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "664677",
+      "description": "Adenuric 80 Mg. 28 comprimidos",
+      "discount": "3.5%",
+      "laboratory": "Menarini",
+      "referencePrice": "9.85930735930736",
+      "tax": "4.5%",
+      "pvl": "9.11",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "693582",
+      "description": "Bretaris Genuair 322 Mg.",
+      "discount": "3.5%",
+      "laboratory": "Menarini",
+      "referencePrice": "33.01",
+      "tax": "4.5%",
+      "pvl": "30.5",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "662711",
+      "description": "Ranexa 375 Mg. 60 comprimidos",
+      "discount": "3.5%",
+      "laboratory": "Menarini",
+      "referencePrice": "53.57",
+      "tax": "4.5%",
+      "pvl": "49.5",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "662712",
+      "description": "Ranexa 500 Mg. 60 comprimidos",
+      "discount": "3.5%",
+      "laboratory": "Menarini",
+      "referencePrice": "53.57",
+      "tax": "4.5%",
+      "pvl": "49.5",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "662713",
+      "description": "Ranexa 750 Mg. 60 comprimidos",
+      "discount": "3.5%",
+      "laboratory": "Menarini",
+      "referencePrice": "53.57",
+      "tax": "4.5%",
+      "pvl": "49.5",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "994335",
+      "description": "Zamene 30 Mg. 10 comprimidos",
+      "discount": "",
+      "laboratory": "Menarini",
+      "referencePrice": "6.08",
+      "tax": "4.5%",
+      "pvl": "6.08",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "679969",
+      "description": "Zamene suspensi�n gotas",
+      "discount": "",
+      "laboratory": "Menarini",
+      "referencePrice": "5.99",
+      "tax": "4.5%",
+      "pvl": "5.99",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "994327",
+      "description": "Zamene 6 Mg. 20 comprimidos",
+      "discount": "",
+      "laboratory": "Menarini",
+      "referencePrice": "2.43",
+      "tax": "4.5%",
+      "pvl": "2.43",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "916585",
+      "description": "Spasmoctyl 40 - 60 grageas",
+      "discount": "",
+      "laboratory": "Menarini",
+      "referencePrice": "7.06",
+      "tax": "4.5%",
+      "pvl": "7.06",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "651368",
+      "description": "Enantyum 25 Mg soluci�n oral",
+      "discount": "",
+      "laboratory": "Menarini",
+      "referencePrice": "2.56",
+      "tax": "4.5%",
+      "pvl": "2.56",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "681957",
+      "description": "Enantyum 25 Mg 20 comprimidos",
+      "discount": "",
+      "laboratory": "Menarini",
+      "referencePrice": "2.56",
+      "tax": "4.5%",
+      "pvl": "2.56",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "994657",
+      "description": "Menaven Gel 1000 60 Gr.",
+      "discount": "",
+      "laboratory": "Menarini",
+      "referencePrice": "4.1",
+      "tax": "4.5%",
+      "pvl": "4.1",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "786111",
+      "description": "Nervinex tabletas 125",
+      "discount": "3.5%",
+      "laboratory": "Menarini",
+      "referencePrice": "80.98",
+      "tax": "4.5%",
+      "pvl": "74.83",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "705080",
+      "description": "Brimica Genuair 340/12 MCG 1 inhal.",
+      "discount": "3.5%",
+      "laboratory": "Menarini",
+      "referencePrice": "48.7",
+      "tax": "4.5%",
+      "pvl": "45",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "702584",
+      "description": "Gibiter Easyhaler 160/4,5 MCG 120 dosis inhal",
+      "discount": "3.5%",
+      "laboratory": "Menarini",
+      "referencePrice": "35.62",
+      "tax": "4.5%",
+      "pvl": "32.92",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "835124",
+      "description": "Forvey 2,5 Mg. 4 comprimidos",
+      "discount": "3.5%",
+      "laboratory": "Menarini",
+      "referencePrice": "14.84",
+      "tax": "4.5%",
+      "pvl": "13.71216",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "829598",
+      "description": "Prandin 2 Mg. 90 comprimidos",
+      "discount": "3.5%",
+      "laboratory": "Menarini",
+      "referencePrice": "7.75",
+      "tax": "4.5%",
+      "pvl": "7.161",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "656822",
+      "description": "Kilor 300 Mg. 30 sobres granulado",
+      "discount": "3.5%",
+      "laboratory": "Menarini",
+      "referencePrice": "9.96",
+      "tax": "4.5%",
+      "pvl": "9.20304",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "661856",
+      "description": "Kilor 600 Mg. 30 15 sobres soluci�n",
+      "discount": "3.5%",
+      "laboratory": "Menarini",
+      "referencePrice": "9.74",
+      "tax": "4.5%",
+      "pvl": "8.99976",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "654770",
+      "description": "Droglican 200 Mg 90 capsulas",
+      "discount": "4%",
+      "laboratory": "BIOIBERICA",
+      "referencePrice": "12.34375",
+      "tax": "4.5%",
+      "pvl": "11.4",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "815241",
+      "description": "Condrosan 400MG 60 CAPS",
+      "discount": "4%",
+      "laboratory": "BIOIBERICA",
+      "referencePrice": "10.75",
+      "tax": "4.5%",
+      "pvl": "9.933",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "708553",
+      "description": "Duloxetina 30mg capsules",
+      "discount": "60%",
+      "laboratory": "Genesis",
+      "referencePrice": "17.12",
+      "tax": "4.5%",
+      "pvl": "17.12",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "708536",
+      "description": "Duloxetina 60mg capsules",
+      "discount": "60%",
+      "laboratory": "Genesis",
+      "referencePrice": "8.56",
+      "tax": "4.5%",
+      "pvl": "8.56",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "676435",
+      "description": "Micofenolato de Mofetilo 500mg comprimidos",
+      "discount": "50%",
+      "laboratory": "Genesis",
+      "referencePrice": "48.43",
+      "tax": "4.5%",
+      "pvl": "48.43",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "688076",
+      "description": "Ursobilane 500 Mg. 60 c�psulas",
+      "discount": "3.5%",
+      "laboratory": "ALDO UNION",
+      "referencePrice": "17.39",
+      "tax": "4.5%",
+      "pvl": "16.07",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "755587",
+      "description": "Ursobilane 300 Mg. 60 c�psulas",
+      "discount": "3.5%",
+      "laboratory": "ALDO UNION",
+      "referencePrice": "10.43",
+      "tax": "4.5%",
+      "pvl": "9.64",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "677602",
+      "description": "Combiprasal 0,5 Mg. 20 ampollas",
+      "discount": "3.5%",
+      "laboratory": "ALDO UNION",
+      "referencePrice": "10.69",
+      "tax": "4.5%",
+      "pvl": "9.88",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "700624",
+      "description": "Silvederma 10 Mg. Crema 50 Gr.",
+      "discount": "3.5%",
+      "laboratory": "ALDO UNION",
+      "referencePrice": "3.48",
+      "tax": "4.5%",
+      "pvl": "3.22",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "700623",
+      "description": "Silvederma 10 Mg. Crema 100 Gr.",
+      "discount": "3.5%",
+      "laboratory": "ALDO UNION",
+      "referencePrice": "5.05",
+      "tax": "4.5%",
+      "pvl": "",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "672312",
+      "description": "Atroaldo 20 MCG",
+      "discount": "3.5%",
+      "laboratory": "ALDO UNION",
+      "referencePrice": "3.26",
+      "tax": "4.5%",
+      "pvl": "3.01",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "700524",
+      "description": "Tirodril 5 Mg. 40 comprimidos",
+      "discount": "3.5%",
+      "laboratory": "ALDO UNION",
+      "referencePrice": "5.26",
+      "tax": "4.5%",
+      "pvl": "4.86",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "799015",
+      "description": "Budesonida Aldo 200 MCG Aerosol 200 dosis",
+      "discount": "3.5%",
+      "laboratory": "ALDO UNION",
+      "referencePrice": "14.04",
+      "tax": "4.5%",
+      "pvl": "12.97",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "668830",
+      "description": "Budesonida nasal 100 MCG Nebuliz.  200 dosis",
+      "discount": "3.5%",
+      "laboratory": "ALDO UNION",
+      "referencePrice": "5.63",
+      "tax": "4.5%",
+      "pvl": "5.2",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "672718",
+      "description": "Budesonida Aldo 200 MCG Nebuliz. 120 dosis",
+      "discount": "3.5%",
+      "laboratory": "ALDO UNION",
+      "referencePrice": "9.24",
+      "tax": "4.5%",
+      "pvl": "8.54",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "651626",
+      "description": "Budesonida Aldo 0,50Mg/Ml suspen. 20 ampollas",
+      "discount": "3.5%",
+      "laboratory": "ALDO UNION",
+      "referencePrice": "8.6",
+      "tax": "4.5%",
+      "pvl": "7.95",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "668905",
+      "description": "Budesonida Aldo 50Mg Aerosol 200 dosis",
+      "discount": "3.5%",
+      "laboratory": "ALDO UNION",
+      "referencePrice": "5.24",
+      "tax": "4.5%",
+      "pvl": "4.84",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "651628",
+      "description": "Budesonida Aldo 0,25Mg/Ml suspen. 20 ampollas",
+      "discount": "3.5%",
+      "laboratory": "ALDO UNION",
+      "referencePrice": "4.3",
+      "tax": "4.5%",
+      "pvl": "3.98",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "658368",
+      "description": "Budesonida Aldo EFG 64 MCG Nebuliz. 12 dosis",
+      "discount": "3.5%",
+      "laboratory": "ALDO UNION",
+      "referencePrice": "2.16",
+      "tax": "4.5%",
+      "pvl": "2",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "708023",
+      "description": "Arrox EFG 20 Mg. 20 comprimidos",
+      "discount": "3.5%",
+      "laboratory": "ALDO UNION",
+      "referencePrice": "14.54",
+      "tax": "4.5%",
+      "pvl": "13.44",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "672287",
+      "description": "Movicol 20 SOBRES",
+      "discount": "3%",
+      "laboratory": "Norgine",
+      "referencePrice": "8.83",
+      "tax": "4.5%",
+      "pvl": "8.83",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "677291",
+      "description": "Movicol 30 SOBRES",
+      "discount": "3%",
+      "laboratory": "Norgine",
+      "referencePrice": "10.38",
+      "tax": "4.5%",
+      "pvl": "10.38",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "654515",
+      "description": "Movicol 30 sobres pedi�trico Neutro",
+      "discount": "3%",
+      "laboratory": "Norgine",
+      "referencePrice": "8.83",
+      "tax": "4.5%",
+      "pvl": "8.83",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "685618",
+      "description": "Movicol Neutro 30 sobres",
+      "discount": "3%",
+      "laboratory": "Norgine",
+      "referencePrice": "11.2268041237113",
+      "tax": "4.5%",
+      "pvl": "",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "710625",
+      "description": "Movicol soluci�n oral 10 sobres",
+      "discount": "3%",
+      "laboratory": "Norgine",
+      "referencePrice": "5.4",
+      "tax": "4.5%",
+      "pvl": "5.4",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "710627",
+      "description": "Movicol soluci�n oral 30 sobres",
+      "discount": "3%",
+      "laboratory": "Norgine",
+      "referencePrice": "10.38",
+      "tax": "4.5%",
+      "pvl": "10.38",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "178465",
+      "description": "Ziverel 20 sobres",
+      "discount": "",
+      "laboratory": "Norgine",
+      "referencePrice": "12",
+      "tax": "11.4%",
+      "pvl": "12",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "721059",
+      "description": "Pleinvue 3 sobres polvo",
+      "discount": "3.5%",
+      "laboratory": "Norgine",
+      "referencePrice": "28.57",
+      "tax": "4.5%",
+      "pvl": "26.4",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "751008",
+      "description": "Cordiplast 10 Mg/24 30 parches 37,4 Mg.",
+      "discount": "3.5%",
+      "laboratory": "Norgine",
+      "referencePrice": "10.69",
+      "tax": "4.5%",
+      "pvl": "9.88",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "656517",
+      "description": "Cordiplast 5 Mg/24 30 parches 18,7 Mg.",
+      "discount": "3.5%",
+      "laboratory": "Norgine",
+      "referencePrice": "5.35",
+      "tax": "4.5%",
+      "pvl": "4.94",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "664714",
+      "description": "Salagen 5 Mg. 84 comprimidos",
+      "discount": "3.5%",
+      "laboratory": "Norgine",
+      "referencePrice": "59.94",
+      "tax": "4.5%",
+      "pvl": "55.39",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "654177",
+      "description": "Sintrom 1 Mg. 60 comprimidos",
+      "discount": "3.5%",
+      "laboratory": "Norgine",
+      "referencePrice": "1.31",
+      "tax": "4.5%",
+      "pvl": "1.21",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "654179",
+      "description": "Sintrom 4 Mg. 20 comprimidos",
+      "discount": "3.5%",
+      "laboratory": "Norgine",
+      "referencePrice": "2.14",
+      "tax": "4.5%",
+      "pvl": "1.98",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "662020",
+      "description": "Valdoxan 25 mg 28 comp",
+      "discount": "3%",
+      "laboratory": "Servier",
+      "referencePrice": "25",
+      "tax": "4.5%",
+      "pvl": "23.1",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "652451",
+      "description": "Procoralan 5 mg 56 comp",
+      "discount": "3%",
+      "laboratory": "Servier",
+      "referencePrice": "20",
+      "tax": "4.5%",
+      "pvl": "18.48",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "652452",
+      "description": "Procoralan 7,5mg 56 Con",
+      "discount": "3%",
+      "laboratory": "Servier",
+      "referencePrice": "30",
+      "tax": "4.5%",
+      "pvl": "27.72",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "653060",
+      "description": "Corlentor 5 mg. 56 comprimidos",
+      "discount": "3.5%",
+      "laboratory": "Servier",
+      "referencePrice": "20",
+      "tax": "4.5%",
+      "pvl": "18.48",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "653061",
+      "description": "Corlentor 7,5 Mg. 56 comprimidos",
+      "discount": "3.5%",
+      "laboratory": "Servier",
+      "referencePrice": "30",
+      "tax": "4.5%",
+      "pvl": "27.72",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "816207",
+      "description": "Daflon 500 MG 30 Comprimidos Recubiertos",
+      "discount": "3%",
+      "laboratory": "Servier",
+      "referencePrice": "8.32",
+      "tax": "4.5%",
+      "pvl": "7.69",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "655365",
+      "description": "Daflon 500 MG 60 Comprimidos Recubiertos",
+      "discount": "3%",
+      "laboratory": "Servier",
+      "referencePrice": "14.21",
+      "tax": "4.5%",
+      "pvl": "13.13",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "684779",
+      "description": "Diamicron 30 mg 60 comprimidos",
+      "discount": "3%",
+      "laboratory": "Servier",
+      "referencePrice": "3.8659793814433",
+      "tax": "4.5%",
+      "pvl": "3.58",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "665624",
+      "description": "Diamicron 60 mg 60 comprimidos",
+      "discount": "3%",
+      "laboratory": "Servier",
+      "referencePrice": "7.75257731958763",
+      "tax": "4.5%",
+      "pvl": "7.16",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "736686",
+      "description": "Bipreterax 4 Mg 30 comprimidos",
+      "discount": "3%",
+      "laboratory": "Servier",
+      "referencePrice": "12.2268041237113",
+      "tax": "4.5%",
+      "pvl": "11.3",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "663103",
+      "description": "Bipreterax 8 Mg. 30 comprimidos",
+      "discount": "3%",
+      "laboratory": "Servier",
+      "referencePrice": "24.46",
+      "tax": "4.5%",
+      "pvl": "22.6",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "703598",
+      "description": "Lipocomb 20 Mg 30 c�psulas",
+      "discount": "3%",
+      "laboratory": "Servier",
+      "referencePrice": "30.43",
+      "tax": "4.5%",
+      "pvl": "28.12",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "703615",
+      "description": "Lipocomb 10 Mg. 30 c�psulas",
+      "discount": "3%",
+      "laboratory": "Servier",
+      "referencePrice": "26.28",
+      "tax": "4.5%",
+      "pvl": "24.28",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "706509",
+      "description": "Viacoram 3.5/2.5  Mg. 30 comprimidos",
+      "discount": "3%",
+      "laboratory": "Servier",
+      "referencePrice": "10.69",
+      "tax": "4.5%",
+      "pvl": "9.87",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "706483",
+      "description": "Viacoram 7,5  Mg. 30 comprimidos",
+      "discount": "3%",
+      "laboratory": "Servier",
+      "referencePrice": "17.1",
+      "tax": "4.5%",
+      "pvl": "15.8",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "688105",
+      "description": "Enzude 50 Mg. 28 comprimidos",
+      "discount": "3%",
+      "laboratory": "Servier",
+      "referencePrice": "16.09",
+      "tax": "4.5%",
+      "pvl": "14.84",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "688182",
+      "description": "Enzude 100 Mg. 28 comprimidos",
+      "discount": "3%",
+      "laboratory": "Servier",
+      "referencePrice": "25.69",
+      "tax": "4.5%",
+      "pvl": "23.74",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "820027",
+      "description": "Ruscus Llorens PDA 30gr",
+      "discount": "4%",
+      "laboratory": "Llorens",
+      "referencePrice": "6.22",
+      "tax": "4.5%",
+      "pvl": "5.75",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "733956",
+      "description": "Azulina 5 ml",
+      "discount": "50%",
+      "laboratory": "Llorens",
+      "referencePrice": "3.83",
+      "tax": "26.2%",
+      "pvl": "3.83",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "6565858",
+      "description": "Wartec soluci�n t�pica 3 Ml.",
+      "discount": "3.5%",
+      "laboratory": "Phoenix",
+      "referencePrice": "10.78",
+      "tax": "4.5%",
+      "pvl": "9.96",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "6565841",
+      "description": "Wartec crema 15% 5 Gr,",
+      "discount": "3.5%",
+      "laboratory": "Phoenix",
+      "referencePrice": "16.78",
+      "tax": "4.5%",
+      "pvl": "15.5",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "710448",
+      "description": "Odenil 5% u�as Cod. Ant. 656707",
+      "discount": "",
+      "laboratory": "Galderma",
+      "referencePrice": "13.73",
+      "tax": "4.5%",
+      "pvl": "13.73",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "688960",
+      "description": "Rozex gel t�pico 30 gr.",
+      "discount": "",
+      "laboratory": "Galderma",
+      "referencePrice": "3.44",
+      "tax": "4.5%",
+      "pvl": "3.72",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "160401",
+      "description": "Gestagyn embarazo",
+      "discount": "5%",
+      "laboratory": "Gynea",
+      "referencePrice": "11.42",
+      "tax": "11.4%",
+      "pvl": "11.42",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "188194",
+      "description": "Gestagyn embarazo DUPLO",
+      "discount": "50%",
+      "laboratory": "Gynea",
+      "referencePrice": "17.13",
+      "tax": "11.4%",
+      "pvl": "",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "160399",
+      "description": "Gestagyn lactancia",
+      "discount": "5%",
+      "laboratory": "Gynea",
+      "referencePrice": "11.42",
+      "tax": "11.4%",
+      "pvl": "11.42",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "359729",
+      "description": "Melagyn gel higiene �ntima 200",
+      "discount": "20%",
+      "laboratory": "Gynea",
+      "referencePrice": "6.32",
+      "tax": "26.2%",
+      "pvl": "5.72",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "175871",
+      "description": "Melagyn Hidratante Vaginal",
+      "discount": "15%",
+      "laboratory": "Gynea",
+      "referencePrice": "8.25",
+      "tax": "26.2%",
+      "pvl": "8.25",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "186077",
+      "description": "Melagyn Hidratante Vulvar tubo 30 gr.",
+      "discount": "20%",
+      "laboratory": "Gynea",
+      "referencePrice": "5.81",
+      "tax": "26.2%",
+      "pvl": "5.81",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "165889",
+      "description": "Serelys",
+      "discount": "15%",
+      "laboratory": "Gynea",
+      "referencePrice": "15.12",
+      "tax": "11.4%",
+      "pvl": "15.12",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "173755",
+      "description": "Serelys 30 c�psulas",
+      "discount": "15%",
+      "laboratory": "Gynea",
+      "referencePrice": "15.12",
+      "tax": "11.4%",
+      "pvl": "15.12",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "191768",
+      "description": "Serelys DUPLO 165889",
+      "discount": "10%",
+      "laboratory": "Gynea",
+      "referencePrice": "25.7",
+      "tax": "11.4%",
+      "pvl": "25.7",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "159448",
+      "description": "Vagisil Gel 50 Gr",
+      "discount": "",
+      "laboratory": "Combe europa",
+      "referencePrice": "6.94",
+      "tax": "26.2%",
+      "pvl": "6.94",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "195842",
+      "description": "Vagisil gel hidrat vagin 30 g",
+      "discount": "7%",
+      "laboratory": "Combe europa",
+      "referencePrice": "5.09",
+      "tax": "26.2%",
+      "pvl": "5.09",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "152834",
+      "description": "Algasiv dentadura superior 30u",
+      "discount": "5%",
+      "laboratory": "Combe europa",
+      "referencePrice": "7.31",
+      "tax": "11.4%",
+      "pvl": "7.31",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "152836",
+      "description": "Algasiv dentadura inferior 30u",
+      "discount": "5%",
+      "laboratory": "Combe europa",
+      "referencePrice": "7.31",
+      "tax": "11.4%",
+      "pvl": "7.31",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "219998",
+      "description": "Algasiv dentadura superior 18u",
+      "discount": "5%",
+      "laboratory": "Combe europa",
+      "referencePrice": "5.02",
+      "tax": "11.4%",
+      "pvl": "5.02",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "220004",
+      "description": "Algasiv dentadura inferior 18u",
+      "discount": "5%",
+      "laboratory": "Combe europa",
+      "referencePrice": "5.02",
+      "tax": "11.4%",
+      "pvl": "5.02",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "179027",
+      "description": "Algasiv crema sensitive 40 g 179029",
+      "discount": "10%",
+      "laboratory": "Combe europa",
+      "referencePrice": "4.87",
+      "tax": "11.4%",
+      "pvl": "4.87",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "962720",
+      "description": "OJOSBEL Env. con 1 frasco de 8 ml",
+      "discount": "10%",
+      "laboratory": "DERMOFARM, S.A.",
+      "referencePrice": "3.44",
+      "tax": "4.5%",
+      "pvl": "3.44",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "372441",
+      "description": "Cumlaude Mucus vaginal 30 Ml",
+      "discount": "10%",
+      "laboratory": "DERMOFARM, S.A.",
+      "referencePrice": "5.93",
+      "tax": "26.2%",
+      "pvl": "5.93",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "202796",
+      "description": "Gynelaude hidratante externo 30 Ml.",
+      "discount": "20%",
+      "laboratory": "DERMOFARM, S.A.",
+      "referencePrice": "6.41",
+      "tax": "26.2%",
+      "pvl": "6.41",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "318824",
+      "description": "Gynelaude hidratante interno 6 Ml.6 uni.",
+      "discount": "20%",
+      "laboratory": "DERMOFARM, S.A.",
+      "referencePrice": "7.86",
+      "tax": "26.2%",
+      "pvl": "7.86",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "167885",
+      "description": "Gineseda new 30 cpas",
+      "discount": "10%",
+      "laboratory": "DERMOFARM, S.A.",
+      "referencePrice": "11.82",
+      "tax": "11.4%",
+      "pvl": "11.82",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "305548",
+      "description": "Rilastil - Drenaqua 30 cap.",
+      "discount": "22%",
+      "laboratory": "DERMOFARM, S.A.",
+      "referencePrice": "15.01",
+      "tax": "11.4%",
+      "pvl": "15.01",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "395756",
+      "description": "Meritene CHOCOLATE 30 sobres 15 Gr.",
+      "discount": "8%",
+      "laboratory": "Nestle",
+      "referencePrice": "17.4",
+      "tax": "11.4%",
+      "pvl": "",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "395715",
+      "description": "Meritene VAINILLA 30 sobres 15 Gr.",
+      "discount": "8%",
+      "laboratory": "Nestle",
+      "referencePrice": "17.4",
+      "tax": "11.4%",
+      "pvl": "",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "954925",
+      "description": "Actron compuesto 28 comp. efer.",
+      "discount": "",
+      "laboratory": "Bayer",
+      "referencePrice": "6.34",
+      "tax": "4.5%",
+      "pvl": "6.34",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "966812",
+      "description": "Gine-Canesten crema 20 Mg./G",
+      "discount": "",
+      "laboratory": "Bayer",
+      "referencePrice": "5.93",
+      "tax": "4.5%",
+      "pvl": "5.93",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "725036",
+      "description": "Canesten crema 30 Gr.",
+      "discount": "",
+      "laboratory": "Bayer",
+      "referencePrice": "5.6",
+      "tax": "4.5%",
+      "pvl": "5.6",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "654161",
+      "description": "Distraneurine",
+      "discount": "4%",
+      "laboratory": "Kern",
+      "referencePrice": "4.87",
+      "tax": "4.5%",
+      "pvl": "4.5",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "662083",
+      "description": "Icandra 50/1000 60 Comprimidos",
+      "discount": "3.5%",
+      "laboratory": "Mylan",
+      "referencePrice": "41.82",
+      "tax": "4.5%",
+      "pvl": "38.64",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "662082",
+      "description": "Icandra 50/850 60 Comprimidos",
+      "discount": "3.5%",
+      "laboratory": "Mylan",
+      "referencePrice": "41.82",
+      "tax": "4.5%",
+      "pvl": "38.64",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "660878",
+      "description": "Tevetens 600 mg  28 Comprimidos",
+      "discount": "3.5%",
+      "laboratory": "Mylan",
+      "referencePrice": "9.88659793814433",
+      "tax": "4.5%",
+      "pvl": "9.14",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "745281",
+      "description": "Tevetens Plus 600mg  28 Comprimidos",
+      "discount": "3.5%",
+      "laboratory": "Mylan",
+      "referencePrice": "17.2061855670103",
+      "tax": "4.5%",
+      "pvl": "15.9",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "674374",
+      "description": "Tarka 180/2 Mg. 28 c�psulas",
+      "discount": "3.5%",
+      "laboratory": "Mylan",
+      "referencePrice": "15.4226804123711",
+      "tax": "4.5%",
+      "pvl": "14.25",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "859991",
+      "description": "Apocard 100mg 30comp",
+      "discount": "3.5%",
+      "laboratory": "Mylan",
+      "referencePrice": "5.53",
+      "tax": "4.5%",
+      "pvl": "5.11",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "860213",
+      "description": "Apocard 100mg 60comp",
+      "discount": "3.5%",
+      "laboratory": "Mylan",
+      "referencePrice": "11.06",
+      "tax": "4.5%",
+      "pvl": "10.22",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "779678",
+      "description": "Duspatalin 135 Mg. 60 Comp.",
+      "discount": "3.5%",
+      "laboratory": "Mylan",
+      "referencePrice": "3.61",
+      "tax": "4.5%",
+      "pvl": "3.33",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "650543",
+      "description": "Navixen Plus (600/12,5)",
+      "discount": "3.5%",
+      "laboratory": "Mylan",
+      "referencePrice": "17.21",
+      "tax": "4.5%",
+      "pvl": "15.9",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "650392",
+      "description": "Regulaten plus 600/12,5 28 comprimidos",
+      "discount": "3.5%",
+      "laboratory": "Mylan",
+      "referencePrice": "17.21",
+      "tax": "4.5%",
+      "pvl": "15.9",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "693703",
+      "description": "Dymista 137/50 nebulizador 120 dosis",
+      "discount": "3.5%",
+      "laboratory": "Mylan",
+      "referencePrice": "19.48",
+      "tax": "4.5%",
+      "pvl": "17.99952",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "697422",
+      "description": "Leponex 100 40 comprimidos",
+      "discount": "3.5%",
+      "laboratory": "Mylan",
+      "referencePrice": "9.83",
+      "tax": "4.5%",
+      "pvl": "9.08",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "719044",
+      "description": "Twicor 10 Mg/10 Mg 30 comprimidos",
+      "discount": "3.5%",
+      "laboratory": "Mylan",
+      "referencePrice": "26.28",
+      "tax": "4.5%",
+      "pvl": "24.28",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "659698",
+      "description": "Borea 160 Mg. 30 comprimidos",
+      "discount": "3.5%",
+      "laboratory": "Mylan",
+      "referencePrice": "24.9",
+      "tax": "4.5%",
+      "pvl": "23.01",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "847483",
+      "description": "Elidel crema 1% 30 Gr.",
+      "discount": "3.5%",
+      "laboratory": "Mylan",
+      "referencePrice": "23.7",
+      "tax": "4.5%",
+      "pvl": "21.9",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "653899",
+      "description": "Bucometasana 30 comp.",
+      "discount": "5%",
+      "laboratory": "Abbott",
+      "referencePrice": "4.51",
+      "tax": "4.5%",
+      "pvl": "4.51",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "722934",
+      "description": "Bucometasana 20 comp.",
+      "discount": "8%",
+      "laboratory": "Abbott",
+      "referencePrice": "3.6",
+      "tax": "4.5%",
+      "pvl": "3.6",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "854059",
+      "description": "Verolax adulto",
+      "discount": "15%",
+      "laboratory": "Angelini",
+      "referencePrice": "4.87",
+      "tax": "4.5%",
+      "pvl": "4.87",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "854042",
+      "description": "Verolax infantil",
+      "discount": "15%",
+      "laboratory": "Angelini",
+      "referencePrice": "4.87",
+      "tax": "4.5%",
+      "pvl": "4.87",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "303719",
+      "description": "Ginseng leo 30 camp.",
+      "discount": "15%",
+      "laboratory": "Angelini",
+      "referencePrice": "8.74",
+      "tax": "11.4%",
+      "pvl": "8.74",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "303701",
+      "description": "Ginseng leo 60 camp",
+      "discount": "15%",
+      "laboratory": "Angelini",
+      "referencePrice": "13.8",
+      "tax": "11.4%",
+      "pvl": "13.8",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "253443",
+      "description": "Vitalison rosa",
+      "discount": "40%",
+      "laboratory": "Angelini",
+      "referencePrice": "10.42",
+      "tax": "11.4%",
+      "pvl": "10.42",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "164239",
+      "description": "Fibra leo 180 camp",
+      "discount": "15%",
+      "laboratory": "Angelini",
+      "referencePrice": "10.07",
+      "tax": "11.4%",
+      "pvl": "10.07",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "164240",
+      "description": "Fibra leo 500 camp.",
+      "discount": "15%",
+      "laboratory": "Angelini",
+      "referencePrice": "20.08",
+      "tax": "11.4%",
+      "pvl": "20.08",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "815217",
+      "description": "Condrosulf 400 mg. 60 c�psulas",
+      "discount": "3.5%",
+      "laboratory": "Angelini",
+      "referencePrice": "10.75",
+      "tax": "4.5%",
+      "pvl": "9.93",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "702350",
+      "description": "Deprax 100 Mg. 30 comprimidos",
+      "discount": "3.5%",
+      "laboratory": "Angelini",
+      "referencePrice": "2.19689119170984",
+      "tax": "4.5%",
+      "pvl": "2.03",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "702351",
+      "description": "Deprax 100 Mg. 60 comprimidos",
+      "discount": "3.5%",
+      "laboratory": "Angelini",
+      "referencePrice": "4.38341968911917",
+      "tax": "4.5%",
+      "pvl": "4.05",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "665751",
+      "description": "Urorec 8 Mg. 30 c�psulas",
+      "discount": "4%",
+      "laboratory": "Recordati",
+      "referencePrice": "19.31",
+      "tax": "4.5%",
+      "pvl": "17.84",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "665750",
+      "description": "Urorec 4 Mg. 30 c�psulas",
+      "discount": "",
+      "laboratory": "Recordati",
+      "referencePrice": "8.92",
+      "tax": "4.5%",
+      "pvl": "8.92",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "650590",
+      "description": "Xeristar 28 c�psulas 30 Mg",
+      "discount": "3.5%",
+      "laboratory": "ESTEVE",
+      "referencePrice": "9.26406926406926",
+      "tax": "4.5%",
+      "pvl": "8.56",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "650498",
+      "description": "Xeristar 28 c�psulas 60 Mg",
+      "discount": "3.5%",
+      "laboratory": "ESTEVE",
+      "referencePrice": "18.5281385281385",
+      "tax": "4.5%",
+      "pvl": "17.12",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "946590",
+      "description": "Motilium 30 comprimidos",
+      "discount": "4.5%",
+      "laboratory": "ESTEVE",
+      "referencePrice": "1.58",
+      "tax": "4.5%",
+      "pvl": "1.46",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "946582",
+      "description": "Motilium suspensi�n 200 Ml.",
+      "discount": "4.5%",
+      "laboratory": "ESTEVE",
+      "referencePrice": "1.73",
+      "tax": "4.5%",
+      "pvl": "1.6",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "974337",
+      "description": "Doxium FTE 60 c�psulas",
+      "discount": "3.5%",
+      "laboratory": "ESTEVE",
+      "referencePrice": "4.81601731601732",
+      "tax": "4.5%",
+      "pvl": "4.45",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "662084",
+      "description": "Zomarist 50 Mg 850 Mg.",
+      "discount": "3.5%",
+      "laboratory": "ESTEVE",
+      "referencePrice": "41.82",
+      "tax": "4.5%",
+      "pvl": "38.64",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "662085",
+      "description": "Zomarist 50 Mg 1000 Mg.",
+      "discount": "3.5%",
+      "laboratory": "ESTEVE",
+      "referencePrice": "41.82",
+      "tax": "4.5%",
+      "pvl": "38.64",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "672842",
+      "description": "Alipza 1 Mg 28 comprimidos",
+      "discount": "3.5%",
+      "laboratory": "ESTEVE",
+      "referencePrice": "14.41",
+      "tax": "4.5%",
+      "pvl": "13.32",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "672826",
+      "description": "Alipza 2 Mg 28 comprimidos",
+      "discount": "3.5%",
+      "laboratory": "ESTEVE",
+      "referencePrice": "19.78",
+      "tax": "4.5%",
+      "pvl": "18.28",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "672827",
+      "description": "Alipza 4 Mg 28 comprimidos",
+      "discount": "3.5%",
+      "laboratory": "ESTEVE",
+      "referencePrice": "29.67",
+      "tax": "4.5%",
+      "pvl": "27.42",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "844696",
+      "description": "Loxifan 2,5 Mg. 30 comprimidos",
+      "discount": "3.5%",
+      "laboratory": "ESTEVE",
+      "referencePrice": "63.85",
+      "tax": "4.5%",
+      "pvl": "59",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "802033",
+      "description": "Aremis 50 Mg. 50 Mg. 30 comprimidos",
+      "discount": "3.5%",
+      "laboratory": "ESTEVE",
+      "referencePrice": "4.04",
+      "tax": "4.5%",
+      "pvl": "3.74",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "801845",
+      "description": "Aremis 50 Mg. 100 Mg. 30 comprimidos",
+      "discount": "3.5%",
+      "laboratory": "ESTEVE",
+      "referencePrice": "8.08",
+      "tax": "4.5%",
+      "pvl": "7.47",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "700670",
+      "description": "Lomper 100 Mg. 6 comprimidos",
+      "discount": "3.5%",
+      "laboratory": "ESTEVE",
+      "referencePrice": "3.05",
+      "tax": "4.5%",
+      "pvl": "2.82",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "700671",
+      "description": "Lomper 100 Mg. 5 Ml. 30 Ml.",
+      "discount": "3.5%",
+      "laboratory": "ESTEVE",
+      "referencePrice": "3.05",
+      "tax": "4.5%",
+      "pvl": "2.82",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "662120",
+      "description": "Co-Vals 320 + 12,5 Mg. 28",
+      "discount": "3%",
+      "laboratory": "ESTEVE",
+      "referencePrice": "15.35",
+      "tax": "4.5%",
+      "pvl": "15.35",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "780700",
+      "description": "Co-Vals 160 + 12,5 Mg. 28",
+      "discount": "3%",
+      "laboratory": "ESTEVE",
+      "referencePrice": "7.68",
+      "tax": "4.5%",
+      "pvl": "7.68",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "650999",
+      "description": "Co-Vals 160 + 25 Mg. 28",
+      "discount": "3%",
+      "laboratory": "ESTEVE",
+      "referencePrice": "7.68",
+      "tax": "4.5%",
+      "pvl": "7.68",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "662119",
+      "description": "Co-Vals 320 + 25 Mg. 28",
+      "discount": "3%",
+      "laboratory": "ESTEVE",
+      "referencePrice": "15.35",
+      "tax": "4.5%",
+      "pvl": "15.35",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "727388",
+      "description": "Vals 80 28 comprimidos",
+      "discount": "3%",
+      "laboratory": "ESTEVE",
+      "referencePrice": "5.22",
+      "tax": "4.5%",
+      "pvl": "5.22",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "726398",
+      "description": "Vals 160 28 comprimidos",
+      "discount": "3%",
+      "laboratory": "ESTEVE",
+      "referencePrice": "10.44",
+      "tax": "4.5%",
+      "pvl": "10.44",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "660013",
+      "description": "Vals 320 28 comprimidos",
+      "discount": "3%",
+      "laboratory": "ESTEVE",
+      "referencePrice": "20.88",
+      "tax": "4.5%",
+      "pvl": "20.88",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "682120",
+      "description": "Bilina 4 Ml. Colirio",
+      "discount": "",
+      "laboratory": "ESTEVE",
+      "referencePrice": "4.36",
+      "tax": "4.5%",
+      "pvl": "4.36",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "660177",
+      "description": "Prometax parches 9.5 Mg 60",
+      "discount": "3.5%",
+      "laboratory": "ESTEVE",
+      "referencePrice": "95.04",
+      "tax": "4.5%",
+      "pvl": "87.81696",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "264662",
+      "description": "Aquoral gotas 20 unidades 0,5 Ml.",
+      "discount": "5%",
+      "laboratory": "ESTEVE",
+      "referencePrice": "7.1",
+      "tax": "4.5%",
+      "pvl": "7.1",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "174189",
+      "description": "Aquoral gotas multidosis",
+      "discount": "10%",
+      "laboratory": "ESTEVE",
+      "referencePrice": "8.45",
+      "tax": "4.5%",
+      "pvl": "7.8078",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "688671",
+      "description": "Brentan crema 30 Gr.",
+      "discount": "3.5%",
+      "laboratory": "ESTEVE",
+      "referencePrice": "5.44",
+      "tax": "4.5%",
+      "pvl": "5.03",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "654138",
+      "description": "Daktarin crema 40 Gr.",
+      "discount": "",
+      "laboratory": "ESTEVE",
+      "referencePrice": "2.2",
+      "tax": "4.5%",
+      "pvl": "2.2",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "864975",
+      "description": "Masdil Retard 120 Mg. 60 comprimidos",
+      "discount": "3.5%",
+      "laboratory": "ESTEVE",
+      "referencePrice": "12.66",
+      "tax": "4.5%",
+      "pvl": "11.7",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "683847",
+      "description": "Uni-Masdil 200 Mg. 28 c�psulas",
+      "discount": "3.5%",
+      "laboratory": "ESTEVE",
+      "referencePrice": "9.85",
+      "tax": "4.5%",
+      "pvl": "9.1",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "662087",
+      "description": "Jalra 50 Mg. 56 comprimidos",
+      "discount": "3.5%",
+      "laboratory": "ESTEVE",
+      "referencePrice": "36.07",
+      "tax": "4.5%",
+      "pvl": "33.33",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "658189",
+      "description": "Calodis 2500 Mg. 30 comprimidos",
+      "discount": "3.5%",
+      "laboratory": "ESTEVE",
+      "referencePrice": "4.8",
+      "tax": "4.5%",
+      "pvl": "4.8",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "974352",
+      "description": "Sibelium  5 Mg. 60 comprimidos",
+      "discount": "3.5%",
+      "laboratory": "ESTEVE",
+      "referencePrice": "5.18",
+      "tax": "4.5%",
+      "pvl": "5.18",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "687015",
+      "description": "Dormidina 12,5 Mg 14 comp.",
+      "discount": "2%",
+      "laboratory": "ESTEVE",
+      "referencePrice": "4.73",
+      "tax": "4.5%",
+      "pvl": "4.58",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "687016",
+      "description": "Dormidina 25 Mg 14 comp.",
+      "discount": "2%",
+      "laboratory": "ESTEVE",
+      "referencePrice": "5.1",
+      "tax": "4.5%",
+      "pvl": "4.93",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "170049",
+      "description": "After Bite original",
+      "discount": "10%",
+      "laboratory": "ESTEVE",
+      "referencePrice": "4.65",
+      "tax": "26.2%",
+      "pvl": "",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "170288",
+      "description": "After Bite xtrem",
+      "discount": "10%",
+      "laboratory": "ESTEVE",
+      "referencePrice": "4.65",
+      "tax": "26.2%",
+      "pvl": "",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "723926",
+      "description": "Fortasec 2 Mg. 20 c�psulas duras",
+      "discount": "5%",
+      "laboratory": "Johnson",
+      "referencePrice": "5.73",
+      "tax": "4.5%",
+      "pvl": "5.73",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "723925",
+      "description": "Fortasec 2 Mg. 10 c�psulas duras",
+      "discount": "5%",
+      "laboratory": "Johnson",
+      "referencePrice": "3.81",
+      "tax": "4.5%",
+      "pvl": "3.81",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "800433",
+      "description": "Fortasec Flash 2 Mg. Liofilizado oral",
+      "discount": "5%",
+      "laboratory": "Johnson",
+      "referencePrice": "6.37",
+      "tax": "4.5%",
+      "pvl": "6.37",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "998625",
+      "description": "Micralax 4 c�nulas",
+      "discount": "3%",
+      "laboratory": "Johnson",
+      "referencePrice": "4.45",
+      "tax": "4.5%",
+      "pvl": "4.45",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "995746",
+      "description": "Vispring colirio 10 Ml.",
+      "discount": "8%",
+      "laboratory": "Johnson",
+      "referencePrice": "4.48",
+      "tax": "4.5%",
+      "pvl": "4.48",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "971457",
+      "description": "Antalgin 550 Mg. 10 comprimidos",
+      "discount": "3.5%",
+      "laboratory": "Atnahs",
+      "referencePrice": "1.42",
+      "tax": "4.5%",
+      "pvl": "1.42",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "998484",
+      "description": "Antalgin 550 Mg. 40 comprimidos",
+      "discount": "3.5%",
+      "laboratory": "Atnahs",
+      "referencePrice": "3.06",
+      "tax": "4.5%",
+      "pvl": "3.06",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "653346",
+      "description": "Bonviva 150 Mg. 1 comprimido",
+      "discount": "3.5%",
+      "laboratory": "Atnahs",
+      "referencePrice": "8.33",
+      "tax": "4.5%",
+      "pvl": "8.33",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "988881",
+      "description": "Naprosyn 500 Mg. 40 comprimidos",
+      "discount": "3.5%",
+      "laboratory": "Atnahs",
+      "referencePrice": "2.78",
+      "tax": "4.5%",
+      "pvl": "2.78",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "999900",
+      "description": "Rinialer 10 Mg. 20 comprimidos",
+      "discount": "3.5%",
+      "laboratory": "BIAL",
+      "referencePrice": "4.84",
+      "tax": "4.5%",
+      "pvl": "4.47",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "660229",
+      "description": "Natifar 28 comprimidos",
+      "discount": "3.5%",
+      "laboratory": "BIAL",
+      "referencePrice": "4.04",
+      "tax": "4.5%",
+      "pvl": "3.74",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "651473",
+      "description": "Ferbisol 100 Mg 50 c�psulas",
+      "discount": "3.5%",
+      "laboratory": "BIAL",
+      "referencePrice": "9.4",
+      "tax": "4.5%",
+      "pvl": "8.69",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "934778",
+      "description": "Hipertene 5 Mg 28 comprimidos",
+      "discount": "3.5%",
+      "laboratory": "BIAL",
+      "referencePrice": "2.03463203463203",
+      "tax": "4.5%",
+      "pvl": "1.88",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "934836",
+      "description": "Hipertene 10 Mg 28 comprimidos",
+      "discount": "3.5%",
+      "laboratory": "BIAL",
+      "referencePrice": "4.06926406926407",
+      "tax": "4.5%",
+      "pvl": "3.76",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "934893",
+      "description": "Hipertene 20 Mg 28 comprimidos",
+      "discount": "3.5%",
+      "laboratory": "BIAL",
+      "referencePrice": "8.14",
+      "tax": "4.5%",
+      "pvl": "7.52",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "662848",
+      "description": "Zebinix 800 Mg 30 comprimidos",
+      "discount": "2.5%",
+      "laboratory": "BIAL",
+      "referencePrice": "125.54",
+      "tax": "4.5%",
+      "pvl": "118",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "656529",
+      "description": "Barnix caps lib 10 Mg. 28 c�psulas",
+      "discount": "3.5%",
+      "laboratory": "BIAL",
+      "referencePrice": "10.9",
+      "tax": "4.5%",
+      "pvl": "10.07",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "656528",
+      "description": "Barnix caps lib 10 Mg. 56 c�psulas",
+      "discount": "3.5%",
+      "laboratory": "BIAL",
+      "referencePrice": "19.96",
+      "tax": "4.5%",
+      "pvl": "18.44",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "656527",
+      "description": "Barnix caps lib 20 Mg. 28 c�psulas",
+      "discount": "3.5%",
+      "laboratory": "BIAL",
+      "referencePrice": "17.46",
+      "tax": "4.5%",
+      "pvl": "16.13",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "656526",
+      "description": "Barnix caps lib 20 Mg. 56 c�psulas",
+      "discount": "3.5%",
+      "laboratory": "BIAL",
+      "referencePrice": "31.9",
+      "tax": "4.5%",
+      "pvl": "29.48",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "713326",
+      "description": "Ongentys 50 Mg. 30 c�psulas",
+      "discount": "3.5%",
+      "laboratory": "BIAL",
+      "referencePrice": "97.4",
+      "tax": "4.5%",
+      "pvl": "90",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "723304",
+      "description": "Biresp Spiromax 160/4,5 MCG 120 dosis inhal ANT 705542",
+      "discount": "3.5%",
+      "laboratory": "BIAL",
+      "referencePrice": "32.07",
+      "tax": "4.5%",
+      "pvl": "29.63",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "723305",
+      "description": "Biresp Spiromax 320/9 MCG 60 dosis Inhal.",
+      "discount": "3.5%",
+      "laboratory": "BIAL",
+      "referencePrice": "32.07",
+      "tax": "4.5%",
+      "pvl": "29.63",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "711250",
+      "description": "Gregal 10 MCG 30 c�psulas 1 inhal.",
+      "discount": "3.5%",
+      "laboratory": "BIAL",
+      "referencePrice": "27.21",
+      "tax": "4.5%",
+      "pvl": "25.14204",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "671656",
+      "description": "Mastical D Unidia 500MG/800UI",
+      "discount": "10%",
+      "laboratory": "Takeda",
+      "referencePrice": "4.62",
+      "tax": "4.5%",
+      "pvl": "4.62",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "655837",
+      "description": "Mastical 90 comprimidos masticable",
+      "discount": "5%",
+      "laboratory": "Takeda",
+      "referencePrice": "2.64",
+      "tax": "4.5%",
+      "pvl": "2.64",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "872622",
+      "description": "Opiren Flas 30 Mg. 28 comprimidos",
+      "discount": "3.5%",
+      "laboratory": "Takeda",
+      "referencePrice": "11.04",
+      "tax": "4.5%",
+      "pvl": "10.2",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "870519",
+      "description": "Opiren Flas 15 Mg. 28 comprimidos",
+      "discount": "3.5%",
+      "laboratory": "Takeda",
+      "referencePrice": "5.52",
+      "tax": "4.5%",
+      "pvl": "5.1",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "654269",
+      "description": "Opiren 30 Mg. 28 comprimidos",
+      "discount": "3.5%",
+      "laboratory": "Takeda",
+      "referencePrice": "11.04",
+      "tax": "4.5%",
+      "pvl": "10.2",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "673244",
+      "description": "Opiren 15 Mg. 28 comprimidos",
+      "discount": "3.5%",
+      "laboratory": "Takeda",
+      "referencePrice": "5.52",
+      "tax": "4.5%",
+      "pvl": "5.1",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "661408",
+      "description": "Fortecortin 4 Mg. 30 comprimidos",
+      "discount": "3.5%",
+      "laboratory": "Ern",
+      "referencePrice": "6.65",
+      "tax": "4.5%",
+      "pvl": "6.14",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "654767",
+      "description": "Fortecortin 1 Mg. 30 comprimidos",
+      "discount": "3.5%",
+      "laboratory": "Ern",
+      "referencePrice": "3.01",
+      "tax": "4.5%",
+      "pvl": "2.78",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "656734",
+      "description": "Fosfocina 500 Mg. 24 comprimidos",
+      "discount": "3.5%",
+      "laboratory": "Ern",
+      "referencePrice": "6.55",
+      "tax": "4.5%",
+      "pvl": "6.05",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "995233",
+      "description": "Dacortin 30 Mg. 30 comprimidos",
+      "discount": "3.5%",
+      "laboratory": "Ern",
+      "referencePrice": "2.61",
+      "tax": "4.5%",
+      "pvl": "2.41",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "695754",
+      "description": "Penilevel 250 Mg. 40 sobres",
+      "discount": "3.5%",
+      "laboratory": "Ern",
+      "referencePrice": "6.65",
+      "tax": "4.5%",
+      "pvl": "6.14",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "720414",
+      "description": "Ellaone 663554",
+      "discount": "18%",
+      "laboratory": "HRA PHARMA",
+      "referencePrice": "17.23",
+      "tax": "4.5%",
+      "pvl": "17.23",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "654322",
+      "description": "Norlevo 1,5 1 camp",
+      "discount": "15%",
+      "laboratory": "HRA PHARMA",
+      "referencePrice": "14.09",
+      "tax": "4.5%",
+      "pvl": "14.09",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "EX180518",
+      "description": "Remescar bolsas y ojeras 12 unidades",
+      "discount": "15%",
+      "laboratory": "Vemedia",
+      "referencePrice": "266.4",
+      "tax": "26.2%",
+      "pvl": "266.4",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "757336",
+      "description": "P�ldoras Zeninas 30 p�ldoras",
+      "discount": "8%",
+      "laboratory": "Vemedia",
+      "referencePrice": "4.6",
+      "tax": "26.2%",
+      "pvl": "4.6",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "847863",
+      "description": "Artedil 10",
+      "discount": "3.5%",
+      "laboratory": "CHIESI",
+      "referencePrice": "4.9119170984456",
+      "tax": "4.5%",
+      "pvl": "4.54",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "848416",
+      "description": "Artedil 20",
+      "discount": "3.5%",
+      "laboratory": "CHIESI",
+      "referencePrice": "9.83419689119171",
+      "tax": "4.5%",
+      "pvl": "9.08",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "653834",
+      "description": "Vivace 30/10 mg 28 comprimidos",
+      "discount": "3.5%",
+      "laboratory": "CHIESI",
+      "referencePrice": "14.6113989637306",
+      "tax": "4.5%",
+      "pvl": "13.5",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "932822",
+      "description": "Prevencor 10 Mg. 28 comprimidos",
+      "discount": "3.5%",
+      "laboratory": "CHIESI",
+      "referencePrice": "3.19",
+      "tax": "4.5%",
+      "pvl": "2.95",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "667469",
+      "description": "Prevencor 20 Mg. 28 comprimidos",
+      "discount": "3.5%",
+      "laboratory": "CHIESI",
+      "referencePrice": "6.39",
+      "tax": "4.5%",
+      "pvl": "5.9",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "667451",
+      "description": "Prevencor 40 Mg. 28 comprimidos",
+      "discount": "3.5%",
+      "laboratory": "CHIESI",
+      "referencePrice": "12.77",
+      "tax": "4.5%",
+      "pvl": "11.8",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "965491",
+      "description": "Relert 40 Mg. 4 comprimidos",
+      "discount": "3.5%",
+      "laboratory": "CHIESI",
+      "referencePrice": "12.2",
+      "tax": "4.5%",
+      "pvl": "11.2728",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "664160",
+      "description": "Acoxxel 60 mg 28 comprimidos",
+      "discount": "",
+      "laboratory": "Faes",
+      "referencePrice": "12.49",
+      "tax": "4.5%",
+      "pvl": "12.49",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "664161",
+      "description": "Acoxxel 90mg 28 comprimidos",
+      "discount": "",
+      "laboratory": "Faes",
+      "referencePrice": "13.04",
+      "tax": "4.5%",
+      "pvl": "13.04",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "672817",
+      "description": "Bilaxten 20 Mg. 20",
+      "discount": "",
+      "laboratory": "Faes",
+      "referencePrice": "8.2",
+      "tax": "4.5%",
+      "pvl": "8.2",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "745851",
+      "description": "Diprogenta  30gr",
+      "discount": "10%",
+      "laboratory": "MSD",
+      "referencePrice": "8.95555555555556",
+      "tax": "4.5%",
+      "pvl": "8.96",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "840645",
+      "description": "Singulair 4 Mg. 28 sobres",
+      "discount": "",
+      "laboratory": "MSD",
+      "referencePrice": "10.79",
+      "tax": "4.5%",
+      "pvl": "10.79",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "662056",
+      "description": "Singulair 10 Mg. 28 comp.",
+      "discount": "",
+      "laboratory": "MSD",
+      "referencePrice": "13.49",
+      "tax": "4.5%",
+      "pvl": "13.49",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "662064",
+      "description": "Singulair 5 Mg. 28 comp.",
+      "discount": "",
+      "laboratory": "MSD",
+      "referencePrice": "13.49",
+      "tax": "4.5%",
+      "pvl": "13.49",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "938548",
+      "description": "Aerius 5 Mg. 20 comprimidos",
+      "discount": "",
+      "laboratory": "MSD",
+      "referencePrice": "4.25",
+      "tax": "4.5%",
+      "pvl": "4.25",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "955229",
+      "description": "Disgren 300 Mg. 50 c�psulas",
+      "discount": "",
+      "laboratory": "Vifor",
+      "referencePrice": "5.9",
+      "tax": "4.5%",
+      "pvl": "5.9",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "945733",
+      "description": "Rupafin 10 mg 20 tabletas",
+      "discount": "4%",
+      "laboratory": "Vifor",
+      "referencePrice": "4.84",
+      "tax": "4.5%",
+      "pvl": "4.47",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "654864",
+      "description": "Copalia 10 Mg/160Mg 28 comprimidos",
+      "discount": "",
+      "laboratory": "Vifor",
+      "referencePrice": "8.5",
+      "tax": "4.5%",
+      "pvl": "9.04",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "654862",
+      "description": "Copalia 5 Mg/160Mg 28 comprimidos",
+      "discount": "",
+      "laboratory": "Vifor",
+      "referencePrice": "8.5",
+      "tax": "4.5%",
+      "pvl": "8.5",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "702683",
+      "description": "Jardiance 25 mg. 30 comp.",
+      "discount": "",
+      "laboratory": "BOEHRINGER",
+      "referencePrice": "35.52",
+      "tax": "4.5%",
+      "pvl": "35.52",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "702686",
+      "description": "Jardiance 10 mg. 30 comp",
+      "discount": "",
+      "laboratory": "BOEHRINGER",
+      "referencePrice": "35.52",
+      "tax": "4.5%",
+      "pvl": "35.52",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "660711",
+      "description": "Micardis Plus 80/25 mg. 28 comprimidos",
+      "discount": "",
+      "laboratory": "BOEHRINGER",
+      "referencePrice": "12.4",
+      "tax": "4.5%",
+      "pvl": "12.4",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "826131",
+      "description": "Micardis Plus 40/12,5 28 comprimidos",
+      "discount": "",
+      "laboratory": "BOEHRINGER",
+      "referencePrice": "6.2",
+      "tax": "4.5%",
+      "pvl": "6.2",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "656578",
+      "description": "Micardis 80 mg. 28 comprimidos",
+      "discount": "",
+      "laboratory": "BOEHRINGER",
+      "referencePrice": "12.79",
+      "tax": "4.5%",
+      "pvl": "12.79",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "656581",
+      "description": "Micardis Plus 80 Mg/12,5 28 comprimidos",
+      "discount": "",
+      "laboratory": "BOEHRINGER",
+      "referencePrice": "12.4",
+      "tax": "4.5%",
+      "pvl": "12.4",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "727065",
+      "description": "Micardis 40 mg. 28 comprimidos",
+      "discount": "",
+      "laboratory": "BOEHRINGER",
+      "referencePrice": "6.4",
+      "tax": "4.5%",
+      "pvl": "6.4",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "833434",
+      "description": "Meiact 200 Mg. 20 comprimidos",
+      "discount": "",
+      "laboratory": "Tedec",
+      "referencePrice": "25.63",
+      "tax": "4.5%",
+      "pvl": "25.63",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "841247",
+      "description": "Meiact 400 Mg. 10 comprimidos",
+      "discount": "",
+      "laboratory": "Tedec",
+      "referencePrice": "25.63",
+      "tax": "4.5%",
+      "pvl": "25.63",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "672587",
+      "description": "Profer 300 Mg. 30 comprimidos",
+      "discount": "",
+      "laboratory": "Tedec",
+      "referencePrice": "9.2",
+      "tax": "4.5%",
+      "pvl": "9.2",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "661499",
+      "description": "Profer 80 Mg. 15 sobres",
+      "discount": "",
+      "laboratory": "Tedec",
+      "referencePrice": "9",
+      "tax": "4.5%",
+      "pvl": "9",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "656798",
+      "description": "Profer 40 Mg. 30 sobres",
+      "discount": "",
+      "laboratory": "Tedec",
+      "referencePrice": "9.2",
+      "tax": "4.5%",
+      "pvl": "9.2",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "683784",
+      "description": "Circadin 2 Mg. 30 comprimidos",
+      "discount": "",
+      "laboratory": "Exeltis",
+      "referencePrice": "18",
+      "tax": "4.5%",
+      "pvl": "18",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "716435",
+      "description": "Ornibel EFG 1 anillo vaginal",
+      "discount": "",
+      "laboratory": "Exeltis",
+      "referencePrice": "9.6",
+      "tax": "4.5%",
+      "pvl": "9.6",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "716436",
+      "description": "Ornibel EFG 3 anillos vaginales",
+      "discount": "",
+      "laboratory": "Exeltis",
+      "referencePrice": "25.6",
+      "tax": "4.5%",
+      "pvl": "25.6",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "703795",
+      "description": "Zinosal EFG 12,5 Mg 90 comprimidos",
+      "discount": "",
+      "laboratory": "Exeltis",
+      "referencePrice": "14.4",
+      "tax": "4.5%",
+      "pvl": "14.4",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "651465",
+      "description": "Secalip 145 Mg. 30 comprimidos",
+      "discount": "3%",
+      "laboratory": "Lacer",
+      "referencePrice": "3.3982683982684",
+      "tax": "4.5%",
+      "pvl": "3.14",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "663682",
+      "description": "Secalip Supra 160 Mg. 30 comprimidos",
+      "discount": "3%",
+      "laboratory": "Lacer",
+      "referencePrice": "3.75541125541126",
+      "tax": "4.5%",
+      "pvl": "3.47",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "694943",
+      "description": "Secalip 200 Mg. 30 c�psulas retard",
+      "discount": "3%",
+      "laboratory": "Lacer",
+      "referencePrice": "3.79381443298969",
+      "tax": "4.5%",
+      "pvl": "3.5",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "670133",
+      "description": "Secalip 250 Mg. 30 c�psulas retard",
+      "discount": "3%",
+      "laboratory": "Lacer",
+      "referencePrice": "4.7319587628866",
+      "tax": "4.5%",
+      "pvl": "4.37",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "992859",
+      "description": "Nitroplast 5, 30 parches",
+      "discount": "3%",
+      "laboratory": "Lacer",
+      "referencePrice": "5.35",
+      "tax": "4.5%",
+      "pvl": "4.94",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "992834",
+      "description": "Nitroplast 10, 30 parches transd�rmicos",
+      "discount": "3%",
+      "laboratory": "Lacer",
+      "referencePrice": "10.6907216494845",
+      "tax": "4.5%",
+      "pvl": "9.88",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "656389",
+      "description": "Nitroplast 15 - 30 parches transd�rmicos",
+      "discount": "3%",
+      "laboratory": "Lacer",
+      "referencePrice": "16.04",
+      "tax": "4.5%",
+      "pvl": "14.82",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "691321",
+      "description": "Binosto 70 comprimidos",
+      "discount": "3%",
+      "laboratory": "Lacer",
+      "referencePrice": "7.28",
+      "tax": "4.5%",
+      "pvl": "6.73",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "689957",
+      "description": "Pravafenix 40 Mg. 30 C�psulas",
+      "discount": "3%",
+      "laboratory": "Lacer",
+      "referencePrice": "16.35",
+      "tax": "4.5%",
+      "pvl": "15.11",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "715411",
+      "description": "Mictonorm 30 Mg. 28 c�psulas",
+      "discount": "3%",
+      "laboratory": "Lacer",
+      "referencePrice": "21.43",
+      "tax": "4.5%",
+      "pvl": "19.8",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "728196",
+      "description": "Abilify 10 mg 28 comprimidos",
+      "discount": "",
+      "laboratory": "Otsuka",
+      "referencePrice": "36.1",
+      "tax": "4.5%",
+      "pvl": "36.1",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "651608",
+      "description": "Abilify 10 mg 28 comprimidos bucodispersables",
+      "discount": "",
+      "laboratory": "Otsuka",
+      "referencePrice": "36.1",
+      "tax": "4.5%",
+      "pvl": "36.1",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "728220",
+      "description": "Abilify 15 mg 28 comprimidos",
+      "discount": "",
+      "laboratory": "Otsuka",
+      "referencePrice": "54.15",
+      "tax": "4.5%",
+      "pvl": "54.15",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "651609",
+      "description": "Abilify 15 mg 28 comprimidos bucodispersables",
+      "discount": "",
+      "laboratory": "Otsuka",
+      "referencePrice": "54.15",
+      "tax": "4.5%",
+      "pvl": "54.15",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "652738",
+      "description": "Abilify 1mg/ml 150 ml soluci�n oral",
+      "discount": "",
+      "laboratory": "Otsuka",
+      "referencePrice": "19.34",
+      "tax": "4.5%",
+      "pvl": "19.34",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "728154",
+      "description": "Abilify 5 mg 28 comprimidos",
+      "discount": "",
+      "laboratory": "Otsuka",
+      "referencePrice": "18.05",
+      "tax": "4.5%",
+      "pvl": "18.05",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "701736",
+      "description": "Abilify maintena 400 mg polvo y disolvente",
+      "discount": "",
+      "laboratory": "Otsuka",
+      "referencePrice": "259.98",
+      "tax": "4.5%",
+      "pvl": "252.45",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "701735",
+      "description": "Abilify maintena 300 mg polvo y disolvente",
+      "discount": "",
+      "laboratory": "Otsuka",
+      "referencePrice": "259.98",
+      "tax": "4.5%",
+      "pvl": "252.45",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "660454",
+      "description": "Pletal 100 mg. 56 comprimidos",
+      "discount": "4%",
+      "laboratory": "Otsuka",
+      "referencePrice": "14.5416666666667",
+      "tax": "4.5%",
+      "pvl": "13.44",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "650428",
+      "description": "Keppra 100 Mg.Ml.  300 Ml. Soluc.",
+      "discount": "3.5%",
+      "laboratory": "UCB",
+      "referencePrice": "39.27",
+      "tax": "4.5%",
+      "pvl": "36.28",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "840652",
+      "description": "Keppra 250 Mg. 60 comprimidos",
+      "discount": "3.5%",
+      "laboratory": "UCB",
+      "referencePrice": "18.9",
+      "tax": "4.5%",
+      "pvl": "17.47",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "918839",
+      "description": "Keppra 500 Mg. 60 comprimidos",
+      "discount": "3.5%",
+      "laboratory": "UCB",
+      "referencePrice": "37.8238341968912",
+      "tax": "4.5%",
+      "pvl": "34.94",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "736066",
+      "description": "Keppra 1.000 Mg. 30 comprimidos",
+      "discount": "3.5%",
+      "laboratory": "UCB",
+      "referencePrice": "37.8238341968912",
+      "tax": "4.5%",
+      "pvl": "34.94",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "659680",
+      "description": "Stopcold 5/120 Mg. 20 comprimidos",
+      "discount": "3.5%",
+      "laboratory": "UCB",
+      "referencePrice": "3.58549222797927",
+      "tax": "4.5%",
+      "pvl": "3.32",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "870261",
+      "description": "Ferrosanol 100 Mg. 50",
+      "discount": "3.5%",
+      "laboratory": "UCB",
+      "referencePrice": "9.39896373056995",
+      "tax": "4.5%",
+      "pvl": "8.69",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "971671",
+      "description": "Xazal 5 Mg. 20",
+      "discount": "3.5%",
+      "laboratory": "UCB",
+      "referencePrice": "4.09326424870466",
+      "tax": "4.5%",
+      "pvl": "3.78",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "661537",
+      "description": "Neupro 1 Mg/24 horas parches",
+      "discount": "3.5%",
+      "laboratory": "UCB",
+      "referencePrice": "45.57",
+      "tax": "4.5%",
+      "pvl": "42.11",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "653935",
+      "description": "Neupro 2 Mg/24 horas parches",
+      "discount": "3.5%",
+      "laboratory": "UCB",
+      "referencePrice": "45.57",
+      "tax": "4.5%",
+      "pvl": "42.11",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "661539",
+      "description": "Neupro 3 Mg/24 horas parches",
+      "discount": "3.5%",
+      "laboratory": "UCB",
+      "referencePrice": "59.24",
+      "tax": "4.5%",
+      "pvl": "54.73776",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "653937",
+      "description": "Neupro 4 Mg/24 horas parches",
+      "discount": "3.5%",
+      "laboratory": "UCB",
+      "referencePrice": "72.92",
+      "tax": "4.5%",
+      "pvl": "67.38",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "653939",
+      "description": "Neupro 6 Mg/24 horas parches",
+      "discount": "3.5%",
+      "laboratory": "UCB",
+      "referencePrice": "94.8",
+      "tax": "4.5%",
+      "pvl": "87.59",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "653941",
+      "description": "Neupro 8 Mg/24 horas parches",
+      "discount": "3.5%",
+      "laboratory": "UCB",
+      "referencePrice": "115.34",
+      "tax": "4.5%",
+      "pvl": "107.8",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "700687",
+      "description": "Vimpat 200 Mg. 56 comprimidos ant. 661372",
+      "discount": "2.5%",
+      "laboratory": "UCB",
+      "referencePrice": "157.86",
+      "tax": "4.5%",
+      "pvl": "150.32",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "700686",
+      "description": "Vimpat 150 Mg. 56 comprimidos ant. 661370",
+      "discount": "2.5%",
+      "laboratory": "UCB",
+      "referencePrice": "120.26",
+      "tax": "4.5%",
+      "pvl": "112.72",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "700685",
+      "description": "Vimpat 100 Mg. 56 comprimidos ant. 661369",
+      "discount": "3.5%",
+      "laboratory": "UCB",
+      "referencePrice": "81.32",
+      "tax": "4.5%",
+      "pvl": "75.14",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "700684",
+      "description": "Vimpat 50 Mg. 14 comprimidos ant. 661368",
+      "discount": "3.5%",
+      "laboratory": "UCB",
+      "referencePrice": "10.16",
+      "tax": "4.5%",
+      "pvl": "9.39",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "710026",
+      "description": "Briviact 50 Mg. 56 comprimidos",
+      "discount": "3.5%",
+      "laboratory": "UCB",
+      "referencePrice": "119.54",
+      "tax": "4.5%",
+      "pvl": "112",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "710028",
+      "description": "Briviact 100 Mg. 100 comprimidos",
+      "discount": "3.5%",
+      "laboratory": "UCB",
+      "referencePrice": "119.54",
+      "tax": "4.5%",
+      "pvl": "112",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "776773",
+      "description": "Ferplex 40, 20 viales bebibles 15 ml.",
+      "discount": "3.5%",
+      "laboratory": "Italf�rmaco",
+      "referencePrice": "8.6839378238342",
+      "tax": "4.5%",
+      "pvl": "8.02",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "656845",
+      "description": "Yodocefol 200/400 28 comprimidos",
+      "discount": "3.5%",
+      "laboratory": "Italf�rmaco",
+      "referencePrice": "4.04145077720207",
+      "tax": "4.5%",
+      "pvl": "3.74",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "697784",
+      "description": "Demilos 600 mg. 30 comprimidos",
+      "discount": "3.5%",
+      "laboratory": "Italf�rmaco",
+      "referencePrice": "6.23834196891192",
+      "tax": "4.5%",
+      "pvl": "5.77",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "673016",
+      "description": "Natecal D comprimidos masticables 60",
+      "discount": "3.5%",
+      "laboratory": "Italf�rmaco",
+      "referencePrice": "5",
+      "tax": "4.5%",
+      "pvl": "4.62",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "655997",
+      "description": "Natecal D flas 60 comprimidos bucodispersables",
+      "discount": "3.5%",
+      "laboratory": "Italf�rmaco",
+      "referencePrice": "5",
+      "tax": "4.5%",
+      "pvl": "4.62",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "701217",
+      "description": "Deltius 25.000 1 frasco 2,5 Ml.",
+      "discount": "3.5%",
+      "laboratory": "Italf�rmaco",
+      "referencePrice": "2.7",
+      "tax": "4.5%",
+      "pvl": "2.5",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "701218",
+      "description": "Deltius 25.000 4 frascos 2,5 Ml.",
+      "discount": "3.5%",
+      "laboratory": "Italf�rmaco",
+      "referencePrice": "10.82",
+      "tax": "4.5%",
+      "pvl": "10",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "701220",
+      "description": "Deltius 10.000 1 frasco 10 Ml.",
+      "discount": "3.5%",
+      "laboratory": "Italf�rmaco",
+      "referencePrice": "10.82",
+      "tax": "4.5%",
+      "pvl": "10",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "866152",
+      "description": "Foli-Doce 28 comprimidos",
+      "discount": "3.5%",
+      "laboratory": "Italf�rmaco",
+      "referencePrice": "2.35",
+      "tax": "4.5%",
+      "pvl": "2.17",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "939579",
+      "description": "Acfol 28 comprimidos",
+      "discount": "3.5%",
+      "laboratory": "Italf�rmaco",
+      "referencePrice": "1.73",
+      "tax": "4.5%",
+      "pvl": "1.6",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "684560",
+      "description": "Blissel 50 gel vaginal",
+      "discount": "3.5%",
+      "laboratory": "Italf�rmaco",
+      "referencePrice": "10.28",
+      "tax": "4.5%",
+      "pvl": "9.49872",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "957753",
+      "description": "Cariban 10/10 Mg. 24 c�psulas",
+      "discount": "3.5%",
+      "laboratory": "Italf�rmaco",
+      "referencePrice": "13.71",
+      "tax": "4.5%",
+      "pvl": "12.67",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "700514",
+      "description": "Progeffik 100 MG 30 c�psulas",
+      "discount": "3.5%",
+      "laboratory": "Effik (Italf�rmaco)",
+      "referencePrice": "4.02",
+      "tax": "4.5%",
+      "pvl": "3.72",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "819219",
+      "description": "Progeffik 200 MG 15 c�psulas",
+      "discount": "3.5%",
+      "laboratory": "Effik (Italf�rmaco)",
+      "referencePrice": "7.27",
+      "tax": "4.5%",
+      "pvl": "6.72",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "663294",
+      "description": "Laurimic 20 MG crema 30 GR",
+      "discount": "3.5%",
+      "laboratory": "Effik (Italf�rmaco)",
+      "referencePrice": "3.83",
+      "tax": "4.5%",
+      "pvl": "3.54",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "663302",
+      "description": "Laurimic vaginal 200 MG 3 �vulos",
+      "discount": "3.5%",
+      "laboratory": "Effik (Italf�rmaco)",
+      "referencePrice": "2.67",
+      "tax": "4.5%",
+      "pvl": "2.47",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "663286",
+      "description": "Laurimic 600 MG 1 �vulo",
+      "discount": "3.5%",
+      "laboratory": "Effik (Italf�rmaco)",
+      "referencePrice": "2.4",
+      "tax": "4.5%",
+      "pvl": "2.22",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "723424",
+      "description": "Edelsin 21 comprimidos",
+      "discount": "3.5%",
+      "laboratory": "Effik (Italf�rmaco)",
+      "referencePrice": "4.11",
+      "tax": "4.5%",
+      "pvl": "3.8",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "723425",
+      "description": "Edelsin 3x21 comprimidos",
+      "discount": "3.5%",
+      "laboratory": "Effik (Italf�rmaco)",
+      "referencePrice": "11.64",
+      "tax": "4.5%",
+      "pvl": "10.75",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "662022",
+      "description": "Thymanax 25 mg. 28 comprimidos",
+      "discount": "",
+      "laboratory": "ROVI",
+      "referencePrice": "38.5",
+      "tax": "4.5%",
+      "pvl": "38.5",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "875377",
+      "description": "Rhodogil 30 comprimidos",
+      "discount": "3.5%",
+      "laboratory": "ROVI",
+      "referencePrice": "4.43298969072165",
+      "tax": "4.5%",
+      "pvl": "4.1",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "650682",
+      "description": "Vytorin 10 Mg. 20 Mg. 28 comprimidos",
+      "discount": "3.5%",
+      "laboratory": "ROVI",
+      "referencePrice": "22.68",
+      "tax": "4.5%",
+      "pvl": "20.96",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "654776",
+      "description": "Vytorin 10 Mg. 40 Mg. 28 comprimidos",
+      "discount": "3.5%",
+      "laboratory": "ROVI",
+      "referencePrice": "22.68",
+      "tax": "4.5%",
+      "pvl": "20.96",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "792291",
+      "description": "Exxiv 60 Mg. 28 comprimidos",
+      "discount": "3.5%",
+      "laboratory": "ROVI",
+      "referencePrice": "7.45",
+      "tax": "4.5%",
+      "pvl": "6.88",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "792671",
+      "description": "Exxiv 90 Mg. 28 comprimidos",
+      "discount": "",
+      "laboratory": "ROVI",
+      "referencePrice": "10.32",
+      "tax": "4.5%",
+      "pvl": "10.32",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "704775",
+      "description": "Ameride 5/50 Mg. 20 comprimidos",
+      "discount": "3.5%",
+      "laboratory": "ROVI",
+      "referencePrice": "1.73",
+      "tax": "4.5%",
+      "pvl": "1.6",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "704783",
+      "description": "Ameride 5/50 Mg. 60 comprimidos",
+      "discount": "3.5%",
+      "laboratory": "ROVI",
+      "referencePrice": "2.76",
+      "tax": "4.5%",
+      "pvl": "2.55",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "693699",
+      "description": "Calcio / vitamina D3 1.000 Mg. 30 comprimidos",
+      "discount": "3.5%",
+      "laboratory": "ROVI",
+      "referencePrice": "5.98",
+      "tax": "4.5%",
+      "pvl": "5.53",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "658183",
+      "description": "Calcio / vitamina D3 1.000 Mg. 880 UI",
+      "discount": "3.5%",
+      "laboratory": "ROVI",
+      "referencePrice": "5.5",
+      "tax": "4.5%",
+      "pvl": "5.08",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "671969",
+      "description": "Hibor 2.500 UI 10 jeringas prec. 0,20 Ml.",
+      "discount": "3.5%",
+      "laboratory": "ROVI",
+      "referencePrice": "19.59",
+      "tax": "4.5%",
+      "pvl": "18.1",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "671968",
+      "description": "Hibor 3.500 UI 10 jeringas prec. 0,20 Ml.",
+      "discount": "3.5%",
+      "laboratory": "ROVI",
+      "referencePrice": "37.84",
+      "tax": "4.5%",
+      "pvl": "34.96",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "672007",
+      "description": "Hibor 3.500 UI 30jeringas prec. 0,20 Ml.",
+      "discount": "3.5%",
+      "laboratory": "ROVI",
+      "referencePrice": "98",
+      "tax": "4.5%",
+      "pvl": "90.55",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "671965",
+      "description": "Hibor 5.000 UI 10 jeringas prec. 0,20 Ml.",
+      "discount": "3.5%",
+      "laboratory": "ROVI",
+      "referencePrice": "99.4",
+      "tax": "4.5%",
+      "pvl": "91.86",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "672002",
+      "description": "Hibor 5.000 UI 30 jeringas prec. 0,20 Ml.",
+      "discount": "1.5%",
+      "laboratory": "ROVI",
+      "referencePrice": "245.42",
+      "tax": "4.5%",
+      "pvl": "237.88",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "671964",
+      "description": "Hibor 7.500 UI 10 jeringas prec. 0,30 Ml.",
+      "discount": "1.5%",
+      "laboratory": "ROVI",
+      "referencePrice": "121.29",
+      "tax": "4.5%",
+      "pvl": "113.75",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "672000",
+      "description": "Hibor 7.500 UI 30 jeringas prec. 0,30 Ml.",
+      "discount": "1.5%",
+      "laboratory": "ROVI",
+      "referencePrice": "302.11",
+      "tax": "4.5%",
+      "pvl": "294.57",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "840488",
+      "description": "Tryptizol 10 Mg. 24 comprimidos",
+      "discount": "3.5%",
+      "laboratory": "ROVI",
+      "referencePrice": "0.74",
+      "tax": "4.5%",
+      "pvl": "0.68",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "840496",
+      "description": "Tryptizol 25 Mg. 24 comprimidos",
+      "discount": "3.5%",
+      "laboratory": "ROVI",
+      "referencePrice": "1.08",
+      "tax": "4.5%",
+      "pvl": "1",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "840504",
+      "description": "Tryptizol 25 Mg. 60 comprimidos",
+      "discount": "3.5%",
+      "laboratory": "ROVI",
+      "referencePrice": "1.55",
+      "tax": "4.5%",
+      "pvl": "1.43",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "939165",
+      "description": "Tryptizol 50 Mg. 30 comprimidos",
+      "discount": "3.5%",
+      "laboratory": "ROVI",
+      "referencePrice": "1.73",
+      "tax": "4.5%",
+      "pvl": "1.6",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "939157",
+      "description": "Tryptizol 75 Mg. 30 comprimidos",
+      "discount": "3.5%",
+      "laboratory": "ROVI",
+      "referencePrice": "2.16",
+      "tax": "4.5%",
+      "pvl": "2",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "818872",
+      "description": "Absorcol 10 Mg. 28 comprimidos",
+      "discount": "3.5%",
+      "laboratory": "ROVI",
+      "referencePrice": "21.38",
+      "tax": "4.5%",
+      "pvl": "19.76",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "665951",
+      "description": "Hirobriz 150 microgramos 30 caps. + inhalador",
+      "discount": "3.5%",
+      "laboratory": "ROVI",
+      "referencePrice": "34.75",
+      "tax": "4.5%",
+      "pvl": "32.11",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "665952",
+      "description": "Hirobriz 300 microgramos 30 caps. + inhalador",
+      "discount": "3.5%",
+      "laboratory": "ROVI",
+      "referencePrice": "34.75",
+      "tax": "4.5%",
+      "pvl": "32.11",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "658622",
+      "description": "Medikinet 10 Mg. 30 c�psulas",
+      "discount": "3.5%",
+      "laboratory": "ROVI",
+      "referencePrice": "19.39",
+      "tax": "4.5%",
+      "pvl": "17.92",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "658623",
+      "description": "Medikinet 20 Mg. 30 c�psulas",
+      "discount": "3.5%",
+      "laboratory": "ROVI",
+      "referencePrice": "38.78",
+      "tax": "4.5%",
+      "pvl": "25.83",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "658624",
+      "description": "Medikinet 30 Mg. 30 c�psulas",
+      "discount": "3.5%",
+      "laboratory": "ROVI",
+      "referencePrice": "43.92",
+      "tax": "4.5%",
+      "pvl": "40.58",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "658626",
+      "description": "Medikinet 40 Mg. 30 c�psulas",
+      "discount": "3.5%",
+      "laboratory": "ROVI",
+      "referencePrice": "50.72",
+      "tax": "4.5%",
+      "pvl": "46.87",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "678883",
+      "description": "Medikinet 5 Mg. 30 c�psulas",
+      "discount": "3.5%",
+      "laboratory": "ROVI",
+      "referencePrice": "3.54",
+      "tax": "4.5%",
+      "pvl": "3.84",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "704107",
+      "description": "Orvatez 10 Mg. 20 Mg.",
+      "discount": "3.5%",
+      "laboratory": "ROVI",
+      "referencePrice": "38.58",
+      "tax": "4.5%",
+      "pvl": "35.65",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "704113",
+      "description": "Orvatez 10 Mg. 40 Mg.",
+      "discount": "3.5%",
+      "laboratory": "ROVI",
+      "referencePrice": "45.43",
+      "tax": "4.5%",
+      "pvl": "41.98",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "704120",
+      "description": "Orvatez 10 Mg. 80 Mg.",
+      "discount": "3.5%",
+      "laboratory": "ROVI",
+      "referencePrice": "59.12",
+      "tax": "4.5%",
+      "pvl": "54.63",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "702409",
+      "description": "Ulunar 85/43 microgramos inhal",
+      "discount": "3.5%",
+      "laboratory": "ROVI",
+      "referencePrice": "59.63",
+      "tax": "4.5%",
+      "pvl": "55.1",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "703094",
+      "description": "Volutsa 6 Mg/0,4 Mg 30 comprimidos",
+      "discount": "3.5%",
+      "laboratory": "ROVI",
+      "referencePrice": "39.33",
+      "tax": "4.5%",
+      "pvl": "36.34",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "719304",
+      "description": "Enoxaparina ROVI 40 Mg 10 jer. 0,4 Ml.",
+      "discount": "3.5%",
+      "laboratory": "ROVI",
+      "referencePrice": "28.38",
+      "tax": "4.5%",
+      "pvl": "26.22",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "719306",
+      "description": "Enoxaparina ROVI 40 Mg 30 jer. 0,4 Ml.",
+      "discount": "3.5%",
+      "laboratory": "ROVI",
+      "referencePrice": "75",
+      "tax": "4.5%",
+      "pvl": "69.3",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "711319",
+      "description": "Neparvis 24/26 Mg. 28 comprimidos",
+      "discount": "3.5%",
+      "laboratory": "ROVI",
+      "referencePrice": "75.76",
+      "tax": "4.5%",
+      "pvl": "70",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "711320",
+      "description": "Neparvis 49 Mg. 28 comprimidos",
+      "discount": "2%",
+      "laboratory": "ROVI",
+      "referencePrice": "147.54",
+      "tax": "4.5%",
+      "pvl": "140",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "711321",
+      "description": "Neparvis 97 Mg. 28 comprimidos",
+      "discount": "2%",
+      "laboratory": "ROVI",
+      "referencePrice": "147.54",
+      "tax": "4.5%",
+      "pvl": "140",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "808220",
+      "description": "Polaracrem 2Mg + 5 Gr. Crema 20 Gr.",
+      "discount": "",
+      "laboratory": "ROVI",
+      "referencePrice": "6.15",
+      "tax": "4.5%",
+      "pvl": "6.15",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "806224",
+      "description": "Polaramine 0,4 Ml. Jarabe 60 Ml.",
+      "discount": "",
+      "laboratory": "ROVI",
+      "referencePrice": "1.94",
+      "tax": "4.5%",
+      "pvl": "1.94",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "887851",
+      "description": "Osvical D 4500 Mg. UI 60 sobres",
+      "discount": "5.5%",
+      "laboratory": "Alter",
+      "referencePrice": "17.91",
+      "tax": "4.5%",
+      "pvl": "16.55",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "700107",
+      "description": "Heipram EFG 10 Mg. 28 comprimidos",
+      "discount": "5.5%",
+      "laboratory": "Alter",
+      "referencePrice": "6.07",
+      "tax": "4.5%",
+      "pvl": "5.61",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "700108",
+      "description": "Heipram EFG 10 Mg. 56 comprimidos",
+      "discount": "5.5%",
+      "laboratory": "Alter",
+      "referencePrice": "12.16",
+      "tax": "4.5%",
+      "pvl": "11.23",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "700109",
+      "description": "Heipram EFG 15 Mg. 28 comprimidos",
+      "discount": "5.5%",
+      "laboratory": "Alter",
+      "referencePrice": "9.11",
+      "tax": "4.5%",
+      "pvl": "8.42",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "700111",
+      "description": "Heipram EFG 20 Mg. 28 comprimidos",
+      "discount": "5.5%",
+      "laboratory": "Alter",
+      "referencePrice": "12.16",
+      "tax": "4.5%",
+      "pvl": "11.23",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "681027",
+      "description": "Lixben EFG 10 Mg. 28 comprimidos",
+      "discount": "5.5%",
+      "laboratory": "Alter",
+      "referencePrice": "45.17",
+      "tax": "4.5%",
+      "pvl": "41.74",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "703564",
+      "description": "Meticel EFG 200 Mg. 30 c�psulas",
+      "discount": "5.5%",
+      "laboratory": "Alter",
+      "referencePrice": "15.44",
+      "tax": "4.5%",
+      "pvl": "14.27",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "681528",
+      "description": "Couldina �cido Acetil Salic�lico 500 20 comp. Eferv.",
+      "discount": "",
+      "laboratory": "Alter",
+      "referencePrice": "6.73",
+      "tax": "4.5%",
+      "pvl": "6.73",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "715140",
+      "description": "Couldina con ibuprofeno 400 20 comp. Eferv.",
+      "discount": "5%",
+      "laboratory": "Alter",
+      "referencePrice": "6.98",
+      "tax": "4.5%",
+      "pvl": "6.98",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "702151",
+      "description": "Couldina con paracetamol 650 20 comp. Eferv.",
+      "discount": "5%",
+      "laboratory": "Alter",
+      "referencePrice": "6.73",
+      "tax": "4.5%",
+      "pvl": "6.73",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "660239",
+      "description": "Thervan EFG 10 Mg. 28 comprimdos",
+      "discount": "5.5%",
+      "laboratory": "Alter",
+      "referencePrice": "3.19",
+      "tax": "4.5%",
+      "pvl": "2.95",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "660919",
+      "description": "Thervan EFG 20 Mg. 28 comprimdos",
+      "discount": "5.5%",
+      "laboratory": "Alter",
+      "referencePrice": "6.39",
+      "tax": "4.5%",
+      "pvl": "5.9",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "660920",
+      "description": "Thervan EFG 40 Mg. 28 comprimdos",
+      "discount": "5.5%",
+      "laboratory": "Alter",
+      "referencePrice": "12.77",
+      "tax": "4.5%",
+      "pvl": "11.8",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "661855",
+      "description": "Pluralais EFG 10 Mg. 28 comprimidos",
+      "discount": "5.5%",
+      "laboratory": "Alter",
+      "referencePrice": "14.6",
+      "tax": "4.5%",
+      "pvl": "13.49",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "660434",
+      "description": "Eucreas 50/1000 60 comprimidos",
+      "discount": "3%",
+      "laboratory": "Novartis",
+      "referencePrice": "41.82",
+      "tax": "4.5%",
+      "pvl": "38.64",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "660433",
+      "description": "Eucreas 50/850 60 comprimidos",
+      "discount": "3%",
+      "laboratory": "Novartis",
+      "referencePrice": "41.82",
+      "tax": "4.5%",
+      "pvl": "38.64",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "700048",
+      "description": "Ultibro Breezhaler 30 c�psulas inhal",
+      "discount": "3%",
+      "laboratory": "Novartis",
+      "referencePrice": "59.63",
+      "tax": "4.5%",
+      "pvl": "55.1",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "654850",
+      "description": "Exforge 10/160 28 comprimidos",
+      "discount": "3%",
+      "laboratory": "Novartis",
+      "referencePrice": "9.2",
+      "tax": "4.5%",
+      "pvl": "8.5",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "654849",
+      "description": "Exforge 5/160 28 comprimidos",
+      "discount": "3%",
+      "laboratory": "Novartis",
+      "referencePrice": "9.2",
+      "tax": "4.5%",
+      "pvl": "8.5",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "654852",
+      "description": "Exforge HCT 160/12,5/10 Mg.",
+      "discount": "3%",
+      "laboratory": "Novartis",
+      "referencePrice": "9.78354978354978",
+      "tax": "4.5%",
+      "pvl": "9.04",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "654851",
+      "description": "Exforge HCT 160/12,5/5 Mg.",
+      "discount": "3%",
+      "laboratory": "Novartis",
+      "referencePrice": "9.1991341991342",
+      "tax": "4.5%",
+      "pvl": "8.5",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "654854",
+      "description": "Exforge HCT 160/25/10 Mg.",
+      "discount": "3%",
+      "laboratory": "Novartis",
+      "referencePrice": "9.78354978354978",
+      "tax": "4.5%",
+      "pvl": "9.04",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "654853",
+      "description": "Exforge HCT 160/25/5 Mg.",
+      "discount": "3%",
+      "laboratory": "Novartis",
+      "referencePrice": "9.1991341991342",
+      "tax": "4.5%",
+      "pvl": "8.5",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "702080",
+      "description": "Exforge HCT 320/25/10 Mg.",
+      "discount": "3%",
+      "laboratory": "Novartis",
+      "referencePrice": "15.6601731601732",
+      "tax": "4.5%",
+      "pvl": "14.47",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "660018",
+      "description": "Galvus 50 Mg. 28 comprimidos",
+      "discount": "3%",
+      "laboratory": "Novartis",
+      "referencePrice": "22.55",
+      "tax": "4.5%",
+      "pvl": "20.83",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "660345",
+      "description": "Galvus 50 Mg. 56 comprimidos",
+      "discount": "3%",
+      "laboratory": "Novartis",
+      "referencePrice": "36.07",
+      "tax": "4.5%",
+      "pvl": "3.33",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "724500",
+      "description": "Myfortic 180 Mg 100 comprimidos",
+      "discount": "3%",
+      "laboratory": "Novartis",
+      "referencePrice": "52.42",
+      "tax": "4.5%",
+      "pvl": "48.43",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "724617",
+      "description": "Myfortic 360 Mg 50 comprimidos",
+      "discount": "3%",
+      "laboratory": "Novartis",
+      "referencePrice": "52.42",
+      "tax": "4.5%",
+      "pvl": "48.43",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "780643",
+      "description": "Co-Diovan 160/12,5 Mg 28 Cl.",
+      "discount": "3%",
+      "laboratory": "Novartis",
+      "referencePrice": "8.31",
+      "tax": "4.5%",
+      "pvl": "7.68",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "661200",
+      "description": "Co-Diovan 320/12,5 Mg 28 Cl.",
+      "discount": "3%",
+      "laboratory": "Novartis",
+      "referencePrice": "16.61",
+      "tax": "4.5%",
+      "pvl": "15.35",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "657353",
+      "description": "Co-Diovan 80/12,5 Mg 28 Cl.",
+      "discount": "3%",
+      "laboratory": "Novartis",
+      "referencePrice": "4.15",
+      "tax": "4.5%",
+      "pvl": "3.84",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "650389",
+      "description": "Co-Diovan Forte 160/25 Mg 28 Cl.",
+      "discount": "3%",
+      "laboratory": "Novartis",
+      "referencePrice": "8.31",
+      "tax": "4.5%",
+      "pvl": "7.68",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "661221",
+      "description": "Co-Diovan Forte 320/25 Mg 28 Cl.",
+      "discount": "3%",
+      "laboratory": "Novartis",
+      "referencePrice": "16.61",
+      "tax": "4.5%",
+      "pvl": "15.35",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "720631",
+      "description": "Diovan 160 Mg. 28 comprimidos",
+      "discount": "3%",
+      "laboratory": "Novartis",
+      "referencePrice": "11.3",
+      "tax": "4.5%",
+      "pvl": "10.44",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "659091",
+      "description": "Diovan 320 Mg. 28 comprimidos",
+      "discount": "3%",
+      "laboratory": "Novartis",
+      "referencePrice": "22.6",
+      "tax": "4.5%",
+      "pvl": "20.88",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "715581",
+      "description": "Diovan 80 Mg. 28 comprimidos",
+      "discount": "3%",
+      "laboratory": "Novartis",
+      "referencePrice": "5.65",
+      "tax": "4.5%",
+      "pvl": "5.22",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "694302",
+      "description": "Seebri Breezhaler 0,05 Mg. Inhal",
+      "discount": "3%",
+      "laboratory": "Novartis",
+      "referencePrice": "33.01",
+      "tax": "4.5%",
+      "pvl": "30.5",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "861369",
+      "description": "Trileptal 300 Mg. 100 comprimidos",
+      "discount": "3%",
+      "laboratory": "Novartis",
+      "referencePrice": "15.29",
+      "tax": "4.5%",
+      "pvl": "14.13",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "861492",
+      "description": "Trileptal 600 Mg. 100 comprimidos",
+      "discount": "3%",
+      "laboratory": "Novartis",
+      "referencePrice": "30.58",
+      "tax": "4.5%",
+      "pvl": "28.26",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "662221",
+      "description": "Voltaren Emulgel 60 Gr.",
+      "discount": "10%",
+      "laboratory": "Novartis",
+      "referencePrice": "5.86",
+      "tax": "4.5%",
+      "pvl": "5.86",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "662213",
+      "description": "Voltaren 100 Mg. 20 supos.",
+      "discount": "5%",
+      "laboratory": "Novartis",
+      "referencePrice": "1.55",
+      "tax": "4.5%",
+      "pvl": "1.55",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "662205",
+      "description": "Voltaren 50 Mg. 40 comprimidos",
+      "discount": "3%",
+      "laboratory": "Novartis",
+      "referencePrice": "1.14718614718615",
+      "tax": "4.5%",
+      "pvl": "1.06",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "662197",
+      "description": "Voltaren Retard 100 Mg. 20 comp.",
+      "discount": "5%",
+      "laboratory": "Novartis",
+      "referencePrice": "1.6",
+      "tax": "4.5%",
+      "pvl": "1.6",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "655134",
+      "description": "Voltaren Retard 75 Mg. 40 comp.",
+      "discount": "5%",
+      "laboratory": "Novartis",
+      "referencePrice": "1.6",
+      "tax": "4.5%",
+      "pvl": "1.6",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "901249",
+      "description": "Dolo-Voltaren",
+      "discount": "5%",
+      "laboratory": "Novartis",
+      "referencePrice": "3.17",
+      "tax": "4.5%",
+      "pvl": "3.17",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "780627",
+      "description": "Lioresal 10 Mg. 30 comprimidos",
+      "discount": "3%",
+      "laboratory": "Novartis",
+      "referencePrice": "2.01",
+      "tax": "4.5%",
+      "pvl": "1.86",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "780635",
+      "description": "Lioresal 25 Mg. 30 comprimidos",
+      "discount": "3%",
+      "laboratory": "Novartis",
+      "referencePrice": "3.31",
+      "tax": "4.5%",
+      "pvl": "3.06",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "679946",
+      "description": "Tegretol 200 Mg. Triplex 100 comp.",
+      "discount": "3%",
+      "laboratory": "Novartis",
+      "referencePrice": "2.76",
+      "tax": "4.5%",
+      "pvl": "2.55",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "679937",
+      "description": "Tegretol 400 Mg. Triplex 100 comp.",
+      "discount": "3%",
+      "laboratory": "Novartis",
+      "referencePrice": "5.52",
+      "tax": "4.5%",
+      "pvl": "5.1",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "709176",
+      "description": "Entresto 24 Mg.",
+      "discount": "3%",
+      "laboratory": "Novartis",
+      "referencePrice": "75.76",
+      "tax": "4.5%",
+      "pvl": "70",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "709177",
+      "description": "Entresto 49 Mg.",
+      "discount": "2%",
+      "laboratory": "Novartis",
+      "referencePrice": "147.54",
+      "tax": "4.5%",
+      "pvl": "140",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "709178",
+      "description": "Entresto 97 Mg. 56 comprimidos",
+      "discount": "2%",
+      "laboratory": "Novartis",
+      "referencePrice": "147.54",
+      "tax": "4.5%",
+      "pvl": "140",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "664465",
+      "description": "Onbrez Breezhaler 150 30 caps. 1 inhal.",
+      "discount": "3%",
+      "laboratory": "Novartis",
+      "referencePrice": "34.75",
+      "tax": "4.5%",
+      "pvl": "32.11",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "669622",
+      "description": "Femara 2,5 Mg. 30 comprimidos",
+      "discount": "3%",
+      "laboratory": "Novartis",
+      "referencePrice": "63.85",
+      "tax": "4.5%",
+      "pvl": "59",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "653825",
+      "description": "Sandimmun Neoral 100 Mg. 30 cap.",
+      "discount": "3%",
+      "laboratory": "Novartis",
+      "referencePrice": "36.37",
+      "tax": "4.5%",
+      "pvl": "33.6",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "653817",
+      "description": "Sandimmun Neoral 50 Mg. 30 cap.",
+      "discount": "3%",
+      "laboratory": "Novartis",
+      "referencePrice": "18.18",
+      "tax": "4.5%",
+      "pvl": "16.8",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "653809",
+      "description": "Sandimmun Neoral 25 Mg. 30 cap.",
+      "discount": "3%",
+      "laboratory": "Novartis",
+      "referencePrice": "9.09",
+      "tax": "4.5%",
+      "pvl": "8.4",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "672394",
+      "description": "Lamisil 250 Mg 28 comprimidos",
+      "discount": "",
+      "laboratory": "Novartis",
+      "referencePrice": "10.36",
+      "tax": "4.5%",
+      "pvl": "10.36",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "901207",
+      "description": "Lamisil t�pico 1% crema 30 Gr.",
+      "discount": "",
+      "laboratory": "Novartis",
+      "referencePrice": "3.38",
+      "tax": "4.5%",
+      "pvl": "3.38",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "654561",
+      "description": "Ganfort 300MCG/ML 5 MG/ML",
+      "discount": "",
+      "laboratory": "ALLERGAN",
+      "referencePrice": "14.87",
+      "tax": "4.5%",
+      "pvl": "14.87",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "699328",
+      "description": "Ganfort 0,3 MG/ML 30 unidosis",
+      "discount": "",
+      "laboratory": "ALLERGAN",
+      "referencePrice": "17.9",
+      "tax": "4.5%",
+      "pvl": "17.9",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "653734",
+      "description": "Alphagan 20 MG/ML 5 ML colirio",
+      "discount": "",
+      "laboratory": "ALLERGAN",
+      "referencePrice": "4.68",
+      "tax": "4.5%",
+      "pvl": "4.68",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "665747",
+      "description": "Lumigan 0,1 MG/ML frasco 3 ML",
+      "discount": "",
+      "laboratory": "ALLERGAN",
+      "referencePrice": "12.61",
+      "tax": "4.5%",
+      "pvl": "12.61",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "697648",
+      "description": "Lumigan 0,3 MG/ML 30 unidosis",
+      "discount": "",
+      "laboratory": "ALLERGAN",
+      "referencePrice": "16.71",
+      "tax": "4.5%",
+      "pvl": "16.71",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "686167",
+      "description": "Pylera 140/125/125 120 c�psulas",
+      "discount": "3.5%",
+      "laboratory": "ALLERGAN",
+      "referencePrice": "43.29",
+      "tax": "4.5%",
+      "pvl": "40",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "697254",
+      "description": "Constella 28 c�psulas",
+      "discount": "3.5%",
+      "laboratory": "ALLERGAN",
+      "referencePrice": "44.24",
+      "tax": "4.5%",
+      "pvl": "40.48",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "668467",
+      "description": "Acular 5 Ml.",
+      "discount": "10%",
+      "laboratory": "ALLERGAN",
+      "referencePrice": "3.32",
+      "tax": "4.5%",
+      "pvl": "3.32",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "653511",
+      "description": "Combigan 2 Mg/ML 5 ML. Colirio",
+      "discount": "5%",
+      "laboratory": "ALLERGAN",
+      "referencePrice": "10.81",
+      "tax": "4.5%",
+      "pvl": "10.81",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "876466",
+      "description": "Viscofresh 0,5 % 30 envases 0,4 Ml",
+      "discount": "8%",
+      "laboratory": "ALLERGAN",
+      "referencePrice": "5.61",
+      "tax": "4.5%",
+      "pvl": "5.61",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "818658",
+      "description": "Viscofresh 1 % 30 envases 0,4 Ml",
+      "discount": "8%",
+      "laboratory": "ALLERGAN",
+      "referencePrice": "5.68",
+      "tax": "4.5%",
+      "pvl": "5.68",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "169884",
+      "description": "Optava fusi�n est�ril 10 Ml",
+      "discount": "10%",
+      "laboratory": "ALLERGAN",
+      "referencePrice": "11.12",
+      "tax": "11.4%",
+      "pvl": "11.12",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "902155",
+      "description": "Noctamid Gotas",
+      "discount": "20%",
+      "laboratory": "Teofarma",
+      "referencePrice": "1.85",
+      "tax": "4.5%",
+      "pvl": "1.85",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "933176",
+      "description": "Imurel 50 Mg. 50 comprimidos",
+      "discount": "3.5%",
+      "laboratory": "Teofarma",
+      "referencePrice": "7.79",
+      "tax": "4.5%",
+      "pvl": "7.2",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "652678",
+      "description": "Oftalmowell 5 Ml",
+      "discount": "3.5%",
+      "laboratory": "Teofarma",
+      "referencePrice": "2.12",
+      "tax": "4.5%",
+      "pvl": "1.96",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "992578",
+      "description": "Beta Micoter crema 30",
+      "discount": "3.5%",
+      "laboratory": "Teofarma",
+      "referencePrice": "6.19",
+      "tax": "4.5%",
+      "pvl": "5.72",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "653790",
+      "description": "Rinobanedif ung�ento nasal 10 Gr.",
+      "discount": "3.5%",
+      "laboratory": "Teofarma",
+      "referencePrice": "5.51",
+      "tax": "4.5%",
+      "pvl": "5.09",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "663239",
+      "description": "Fluidasa 20 Mg/Ml soluci�n 30",
+      "discount": "3.5%",
+      "laboratory": "Teofarma",
+      "referencePrice": "2.96",
+      "tax": "4.5%",
+      "pvl": "2.73504",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "947531",
+      "description": "Fluidasa 150 Mg 20 c�psulas",
+      "discount": "3.5%",
+      "laboratory": "Teofarma",
+      "referencePrice": "5.18",
+      "tax": "4.5%",
+      "pvl": "4.78632",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "656582",
+      "description": "Fero Gradumet 325 Mg.",
+      "discount": "3.5%",
+      "laboratory": "Teofarma",
+      "referencePrice": "2.27",
+      "tax": "4.5%",
+      "pvl": "2.09748",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "685628",
+      "description": "Tilavist 20 Ml.  Colirio 5 Ml.",
+      "discount": "5%",
+      "laboratory": "Teofarma",
+      "referencePrice": "4.02",
+      "tax": "4.5%",
+      "pvl": "4.02",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "684874",
+      "description": "Yellox colirio soluci�n 5 Ml.",
+      "discount": "13%",
+      "laboratory": "BAUSCH & LOMB",
+      "referencePrice": "16.66",
+      "tax": "4.5%",
+      "pvl": "16.66",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "784702",
+      "description": "Artific colirio 30 monodosis 0,50",
+      "discount": "10%",
+      "laboratory": "BAUSCH & LOMB",
+      "referencePrice": "5.51",
+      "tax": "4.5%",
+      "pvl": "5.51",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "784710",
+      "description": "Artific colirio 10 ml",
+      "discount": "10%",
+      "laboratory": "BAUSCH & LOMB",
+      "referencePrice": "4.1",
+      "tax": "4.5%",
+      "pvl": "4.1",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "764118",
+      "description": "Lipolac gel oftalmol�gico 0,2%",
+      "discount": "7.5%",
+      "laboratory": "BAUSCH & LOMB",
+      "referencePrice": "3.97",
+      "tax": "4.5%",
+      "pvl": "3.68",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "154854",
+      "description": "Recugel multidosis 10",
+      "discount": "20%",
+      "laboratory": "BAUSCH & LOMB",
+      "referencePrice": "10.3",
+      "tax": "11.4%",
+      "pvl": "10.3",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "734988",
+      "description": "Vandral Retard 75 Mg. 30 c�psulas",
+      "discount": "4%",
+      "laboratory": "Pfizer",
+      "referencePrice": "6.65",
+      "tax": "4.5%",
+      "pvl": "6.14",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "735035",
+      "description": "Vandral Retard 150 Mg. 30 c�psulas",
+      "discount": "4%",
+      "laboratory": "Pfizer",
+      "referencePrice": "13.28",
+      "tax": "4.5%",
+      "pvl": "12.27",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "764555",
+      "description": "Voltaren 1Mg/Ml  5 Ml colirio",
+      "discount": "50%",
+      "laboratory": "THEA",
+      "referencePrice": "2.68",
+      "tax": "4.5%",
+      "pvl": "2.68",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "672138",
+      "description": "Azarga colirio susp. 5 Ml.",
+      "discount": "3.5%",
+      "laboratory": "Alcon",
+      "referencePrice": "11.8756476683938",
+      "tax": "4.5%",
+      "pvl": "10.98",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "848226",
+      "description": "Azopt colirio 1% 5 Ml.",
+      "discount": "3.5%",
+      "laboratory": "Alcon",
+      "referencePrice": "5.30569948186529",
+      "tax": "4.5%",
+      "pvl": "4.9",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "675256",
+      "description": "Acuolens colirio mono. 30 .50 Ml.",
+      "discount": "3.5%",
+      "laboratory": "Alcon",
+      "referencePrice": "5.28",
+      "tax": "4.5%",
+      "pvl": "4.88",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "765644",
+      "description": "Opatanol gotas oftalm. 5 Ml.",
+      "discount": "3.5%",
+      "laboratory": "Alcon",
+      "referencePrice": "5.37",
+      "tax": "4.5%",
+      "pvl": "4.96",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "990051",
+      "description": "Colircus� antied. Gotas 5% 10 Ml.",
+      "discount": "3.5%",
+      "laboratory": "Alcon",
+      "referencePrice": "8.02",
+      "tax": "4.5%",
+      "pvl": "8.02",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "959817",
+      "description": "Travatan Colirio 0.4%",
+      "discount": "3.5%",
+      "laboratory": "Alcon",
+      "referencePrice": "11.1",
+      "tax": "4.5%",
+      "pvl": "10.26",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "654402",
+      "description": "Duotrav",
+      "discount": "3.5%",
+      "laboratory": "Alcon",
+      "referencePrice": "9.74",
+      "tax": "4.5%",
+      "pvl": "8.99976",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "664153",
+      "description": "Vigamox 5 mg Colirio",
+      "discount": "3.5%",
+      "laboratory": "Alcon",
+      "referencePrice": "4.76",
+      "tax": "4.5%",
+      "pvl": "4.4",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "703483",
+      "description": "Simbrinza 10 Ml.",
+      "discount": "3.5%",
+      "laboratory": "Alcon",
+      "referencePrice": "12.52",
+      "tax": "4.5%",
+      "pvl": "11.57",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "700645",
+      "description": "Tobradex soluci�n oftalmol�gica 5",
+      "discount": "3.5%",
+      "laboratory": "Alcon",
+      "referencePrice": "1.73",
+      "tax": "4.5%",
+      "pvl": "1.6",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "977298",
+      "description": "Tobrex 5 ML",
+      "discount": "3.5%",
+      "laboratory": "Alcon",
+      "referencePrice": "1.25",
+      "tax": "4.5%",
+      "pvl": "1.155",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "653502",
+      "description": "Maxidex",
+      "discount": "3.5%",
+      "laboratory": "Alcon",
+      "referencePrice": "1.73",
+      "tax": "4.5%",
+      "pvl": "1.6",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "672096",
+      "description": "Colircus� Gentadexa",
+      "discount": "3.5%",
+      "laboratory": "Alcon",
+      "referencePrice": "2.29",
+      "tax": "4.5%",
+      "pvl": "2.12",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "952937",
+      "description": "Cusimolol 0,50",
+      "discount": "3.5%",
+      "laboratory": "Alcon",
+      "referencePrice": "2.16",
+      "tax": "4.5%",
+      "pvl": "2",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "654825",
+      "description": "Colircus� Ciclopejico",
+      "discount": "3.5%",
+      "laboratory": "Alcon",
+      "referencePrice": "2.76",
+      "tax": "4.5%",
+      "pvl": "2.55",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "687830",
+      "description": "Oftacilox soluci�n oft. 5 ml",
+      "discount": "3.5%",
+      "laboratory": "Alcon",
+      "referencePrice": "3.22",
+      "tax": "4.5%",
+      "pvl": "2.97",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "653544",
+      "description": "Tobrex ung�ento 3 Mg.",
+      "discount": "3.5%",
+      "laboratory": "Alcon",
+      "referencePrice": "1.73",
+      "tax": "4.5%",
+      "pvl": "1.6",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "797639",
+      "description": "Oftalmolosa Cus� de Icol pomada",
+      "discount": "3.5%",
+      "laboratory": "Alcon",
+      "referencePrice": "6.81",
+      "tax": "4.5%",
+      "pvl": "6.29",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "653520",
+      "description": "Oftalmolosa Cus� aureomicina",
+      "discount": "",
+      "laboratory": "Alcon",
+      "referencePrice": "1.96",
+      "tax": "4.5%",
+      "pvl": "1.96",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "797746",
+      "description": "Oftalmolosa Cusi Predinisona neoimicina",
+      "discount": "",
+      "laboratory": "Alcon",
+      "referencePrice": "7.63",
+      "tax": "4.5%",
+      "pvl": "7.63",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "688045",
+      "description": "Nevanac 1 Mg/Ml 5 Ml",
+      "discount": "3.5%",
+      "laboratory": "Alcon",
+      "referencePrice": "18.4",
+      "tax": "4.5%",
+      "pvl": "17",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "698853",
+      "description": "Nevanac 3 Mg/Ml 3 Ml",
+      "discount": "3.5%",
+      "laboratory": "Alcon",
+      "referencePrice": "19.48",
+      "tax": "4.5%",
+      "pvl": "17.99952",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "662979",
+      "description": "Victoza 6MG/ML 2 plumas 3 Ml.",
+      "discount": "3.5%",
+      "laboratory": "Novo Nordisk",
+      "referencePrice": "90.38",
+      "tax": "4.5%",
+      "pvl": "83.51",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "656774",
+      "description": "Novorapid Flexpen 100 U/ML 5 plumas 3 Ml",
+      "discount": "3.5%",
+      "laboratory": "Novo Nordisk",
+      "referencePrice": "29.96",
+      "tax": "4.5%",
+      "pvl": "27.68",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "697408",
+      "description": "Tresiba 100 U/ML 5 plumas 3 Ml",
+      "discount": "3.5%",
+      "laboratory": "Novo Nordisk",
+      "referencePrice": "61.88",
+      "tax": "4.5%",
+      "pvl": "57.19",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "813576",
+      "description": "Levemir Flexpen 100 U/ML 5 plumas 3 Ml",
+      "discount": "3.5%",
+      "laboratory": "Novo Nordisk",
+      "referencePrice": "54.44",
+      "tax": "4.5%",
+      "pvl": "50.3",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "656056",
+      "description": "Levemir Innolet  100 U/ML 5 plumas 3 Ml",
+      "discount": "3.5%",
+      "laboratory": "Novo Nordisk",
+      "referencePrice": "54.44",
+      "tax": "4.5%",
+      "pvl": "50.3",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "656773",
+      "description": "Novomix 30 Flexpen 100 U/ML 5 plumas 3 ML",
+      "discount": "3.5%",
+      "laboratory": "Novo Nordisk",
+      "referencePrice": "33.83",
+      "tax": "4.5%",
+      "pvl": "31.26",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "661527",
+      "description": "Novomix 50 Flexpen 100 U/ML 5 plumas 3 ML",
+      "discount": "3.5%",
+      "laboratory": "Novo Nordisk",
+      "referencePrice": "33.83",
+      "tax": "4.5%",
+      "pvl": "31.26",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "776427",
+      "description": "Insulatard Flexpen 100 U/ML 5 plumas 3 ML",
+      "discount": "3.5%",
+      "laboratory": "Novo Nordisk",
+      "referencePrice": "26.37",
+      "tax": "4.5%",
+      "pvl": "24.36",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "777268",
+      "description": "Mixtard 30 Innolet 100 UI/ML 5 plumas 3 ML",
+      "discount": "3.5%",
+      "laboratory": "Novo Nordisk",
+      "referencePrice": "26.37",
+      "tax": "4.5%",
+      "pvl": "24.36",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "775536",
+      "description": "Actrapit Innolet 100 UI/ML 5 plumas 3 ML",
+      "discount": "3.5%",
+      "laboratory": "Novo Nordisk",
+      "referencePrice": "25.58",
+      "tax": "4.5%",
+      "pvl": "23.63592",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "965616",
+      "description": "Glucagen Hipokit  1MG 1 VIAL 1 JER 1ML",
+      "discount": "3.5%",
+      "laboratory": "Novo Nordisk",
+      "referencePrice": "14.88",
+      "tax": "4.5%",
+      "pvl": "13.75",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "715550",
+      "description": "Fiasp 100 U/ML 5 plumas 3 ML",
+      "discount": "3.5%",
+      "laboratory": "Novo Nordisk",
+      "referencePrice": "29.96",
+      "tax": "4.5%",
+      "pvl": "27.68",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "723345",
+      "description": "Ozempic 0,25 Mg. pluma recargada",
+      "discount": "3.5%",
+      "laboratory": "Novo Nordisk",
+      "referencePrice": "100.82",
+      "tax": "4.5%",
+      "pvl": "93.28",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "723346",
+      "description": "Ozempic 0,50 Mg. pluma recargada",
+      "discount": "3.5%",
+      "laboratory": "Novo Nordisk",
+      "referencePrice": "100.82",
+      "tax": "4.5%",
+      "pvl": "93.28",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "723347",
+      "description": "Ozempic 1 Mg. pluma recargada",
+      "discount": "3.5%",
+      "laboratory": "Novo Nordisk",
+      "referencePrice": "100.82",
+      "tax": "4.5%",
+      "pvl": "93.28",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "718635",
+      "description": "Novonorm 2 Mg. 90 comprimidos",
+      "discount": "3.5%",
+      "laboratory": "Novo Nordisk",
+      "referencePrice": "7.75",
+      "tax": "4.5%",
+      "pvl": "7.16",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "717769",
+      "description": "Novonorm 1 Mg. 90 comprimidos",
+      "discount": "3.5%",
+      "laboratory": "Novo Nordisk",
+      "referencePrice": "3.87",
+      "tax": "4.5%",
+      "pvl": "3.58",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "697914",
+      "description": "Augmentine (875/125 MG) 20 COM",
+      "discount": "25%",
+      "laboratory": "Glaxo, S.A.",
+      "referencePrice": "4.36",
+      "tax": "4.5%",
+      "pvl": "4.36",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "165891",
+      "description": "Hylo-Comod 10 Ml",
+      "discount": "5%",
+      "laboratory": "Brill",
+      "referencePrice": "10",
+      "tax": "11.4%",
+      "pvl": "10",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "165892",
+      "description": "Hylo-Gel 10 Ml",
+      "discount": "5%",
+      "laboratory": "Brill",
+      "referencePrice": "11.1",
+      "tax": "11.4%",
+      "pvl": "11.1",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "173050",
+      "description": "Hylo-Dual 10 ML",
+      "discount": "5%",
+      "laboratory": "Brill",
+      "referencePrice": "13",
+      "tax": "11.4%",
+      "pvl": "13",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "178077",
+      "description": "Hylo-Fresh 10 Ml.",
+      "discount": "10%",
+      "laboratory": "Brill",
+      "referencePrice": "7.8",
+      "tax": "11.4%",
+      "pvl": "7.8",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "EXDUAL12",
+      "description": "Expositor Hylo-Dual 12 unidades",
+      "discount": "7%",
+      "laboratory": "Brill",
+      "referencePrice": "156",
+      "tax": "11.4%",
+      "pvl": "156",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "EXGECO6",
+      "description": "Expositor Hylo-Gel + Hylo-Comod 6+6",
+      "discount": "7%",
+      "laboratory": "Brill",
+      "referencePrice": "126.6",
+      "tax": "11.4%",
+      "pvl": "126.6",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "711475",
+      "description": "Ofloxacino POS 3 Mg. colirio 5 Ml.",
+      "discount": "15%",
+      "laboratory": "Brill",
+      "referencePrice": "1.81",
+      "tax": "4.5%",
+      "pvl": "1.81",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "178078",
+      "description": "Parpafresh 30 toallitas",
+      "discount": "30%",
+      "laboratory": "Brill",
+      "referencePrice": "8.73",
+      "tax": "26.2%",
+      "pvl": "8.73",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "178075",
+      "description": "Monofresh gotas monodosis 4 Ml. 10",
+      "discount": "50%",
+      "laboratory": "Brill",
+      "referencePrice": "3",
+      "tax": "11.4%",
+      "pvl": "3",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "178076",
+      "description": "Monofresh gotas monodosis 4 Ml. 30",
+      "discount": "50%",
+      "laboratory": "Brill",
+      "referencePrice": "7.45",
+      "tax": "11.4%",
+      "pvl": "7.45",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "185415",
+      "description": "Ectodol soluci�n oft�lmica 30x0,5 Ml.",
+      "discount": "8%",
+      "laboratory": "Brill",
+      "referencePrice": "9.67",
+      "tax": "11.4%",
+      "pvl": "9.67",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "187247",
+      "description": "Ectodol 24 pastillas para chupar",
+      "discount": "14%",
+      "laboratory": "Brill",
+      "referencePrice": "5.6",
+      "tax": "26.2%",
+      "pvl": "5.6",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "EXECTODOL15",
+      "description": "Expositor pastillas para chupar 24 unidades",
+      "discount": "15%",
+      "laboratory": "Brill",
+      "referencePrice": "112",
+      "tax": "26.2%",
+      "pvl": "112",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "689660",
+      "description": "Mupirocina Isdin pomada 15 Gr.",
+      "discount": "3.5%",
+      "laboratory": "Isdin",
+      "referencePrice": "2.61",
+      "tax": "4.5%",
+      "pvl": "2.41",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "689662",
+      "description": "Mupirocina Isdin pomada 30 Gr.",
+      "discount": "3.5%",
+      "laboratory": "Isdin",
+      "referencePrice": "5.21",
+      "tax": "4.5%",
+      "pvl": "4.81",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "656954",
+      "description": "Nutracel pomada 50",
+      "discount": "3.5%",
+      "laboratory": "Isdin",
+      "referencePrice": "3.84",
+      "tax": "4.5%",
+      "pvl": "3.55",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "983163",
+      "description": "Bexidermil gel t�pico 50 Gr.",
+      "discount": "3.5%",
+      "laboratory": "Isdin",
+      "referencePrice": "4.23",
+      "tax": "4.5%",
+      "pvl": "3.91",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "697800",
+      "description": "Itragerm 50 Mg. 14 c�psulas",
+      "discount": "3.5%",
+      "laboratory": "Isdin",
+      "referencePrice": "9.01",
+      "tax": "4.5%",
+      "pvl": "8.32",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "952770",
+      "description": "Antiverrugas Isdin 20 Ml.",
+      "discount": "3.5%",
+      "laboratory": "Isdin",
+      "referencePrice": "5.49",
+      "tax": "4.5%",
+      "pvl": "5.07",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "311860",
+      "description": "One touch ultra 50 Tiras",
+      "discount": "5%",
+      "laboratory": "Johnson",
+      "referencePrice": "27.97",
+      "tax": "11.4%",
+      "pvl": "25.84",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "387761",
+      "description": "One touch ultra 100 Tiras",
+      "discount": "2%",
+      "laboratory": "Johnson",
+      "referencePrice": "52.28",
+      "tax": "11.4%",
+      "pvl": "52.28",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "157680",
+      "description": "One touch verio 50 Tiras",
+      "discount": "5.5%",
+      "laboratory": "Johnson",
+      "referencePrice": "28.2901554404145",
+      "tax": "11.4%",
+      "pvl": "26.14",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "159706",
+      "description": "One touch verio 100 Tiras",
+      "discount": "5.5%",
+      "laboratory": "Johnson",
+      "referencePrice": "56.580310880829",
+      "tax": "11.4%",
+      "pvl": "52.28",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "176296",
+      "description": "One Touch Select Plus 50",
+      "discount": "5.5%",
+      "laboratory": "Johnson",
+      "referencePrice": "28.29",
+      "tax": "11.4%",
+      "pvl": "26.14",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "176298",
+      "description": "One Touch Select Plus 100",
+      "discount": "6.5%",
+      "laboratory": "Johnson",
+      "referencePrice": "52.28",
+      "tax": "11.4%",
+      "pvl": "52.28",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "162644",
+      "description": "Glucocard G sensor 50 Tiras",
+      "discount": "2%",
+      "laboratory": "Menarini",
+      "referencePrice": "27.97",
+      "tax": "11.4%",
+      "pvl": "25.84",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "180853",
+      "description": "Glucomen Areo Sensor 50 tiras",
+      "discount": "4%",
+      "laboratory": "Menarini",
+      "referencePrice": "26.14",
+      "tax": "11.4%",
+      "pvl": "",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "652206",
+      "description": "Konakion 10 Mg. 5 ampollas 1 Ml.",
+      "discount": "",
+      "laboratory": "Roche",
+      "referencePrice": "1.88",
+      "tax": "4.5%",
+      "pvl": "1.88",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "200599",
+      "description": "Accu-Chec Aviva 50 Tiras",
+      "discount": "2%",
+      "laboratory": "Roche",
+      "referencePrice": "28.2857142857143",
+      "tax": "11.4%",
+      "pvl": "26.14",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "158921",
+      "description": "Accu-Chec Aviva 100 Tiras",
+      "discount": "2%",
+      "laboratory": "Roche",
+      "referencePrice": "56.5816326530612",
+      "tax": "11.4%",
+      "pvl": "52.28",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "",
+      "description": "MEDIDOR 1+2",
+      "discount": "",
+      "laboratory": "Roche",
+      "referencePrice": "46.05",
+      "tax": "11.4%",
+      "pvl": "",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "662519",
+      "description": "Xenical (IP)                       656470",
+      "discount": "30%",
+      "laboratory": "Roche",
+      "referencePrice": "63.7272727272727",
+      "tax": "4.5%",
+      "pvl": "63.7272727272727",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "693090",
+      "description": "Silodyx 8 Comp                665754",
+      "discount": "10%",
+      "laboratory": "Almirall",
+      "referencePrice": "16.77",
+      "tax": "4.5%",
+      "pvl": "17.8421052631579",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "678015",
+      "description": "Belara 21 comp               651553",
+      "discount": "20%",
+      "laboratory": "Gedeon",
+      "referencePrice": "9.99",
+      "tax": "4.5%",
+      "pvl": "9.99",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "678010",
+      "description": "Harmonet 21 comp        662296",
+      "discount": "40%",
+      "laboratory": "Pfizer",
+      "referencePrice": "10.8",
+      "tax": "4.5%",
+      "pvl": "10.8",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "677566",
+      "description": "Meliane 21 comp           662346",
+      "discount": "40%",
+      "laboratory": "Bayer",
+      "referencePrice": "10.8",
+      "tax": "4.5%",
+      "pvl": "10.8",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "678007",
+      "description": "Yasmine                            671271",
+      "discount": "12%",
+      "laboratory": "Bayer",
+      "referencePrice": "11.08",
+      "tax": "4.5%",
+      "pvl": "11.08",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "677696",
+      "description": "Pritor 80 mg 28 tabletas      656662",
+      "discount": "8%",
+      "laboratory": "Bayer",
+      "referencePrice": "12.79",
+      "tax": "4.5%",
+      "pvl": "12.79",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "693292",
+      "description": "Pariet 20mg 28comp        752717",
+      "discount": "6%",
+      "laboratory": "Janseen",
+      "referencePrice": "15.6122448979592",
+      "tax": "4.5%",
+      "pvl": "15.6122448979592",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "665961",
+      "description": "Evra 3 parches          852582",
+      "discount": "50%",
+      "laboratory": "Janseen",
+      "referencePrice": "12.36",
+      "tax": "4.5%",
+      "pvl": "12.36",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "698724",
+      "description": "Diprogenta  30gr             745851",
+      "discount": "15%",
+      "laboratory": "MSD",
+      "referencePrice": "8.95",
+      "tax": "4.5%",
+      "pvl": "8.95",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "702681",
+      "description": "Norlevo 1,5 1 camp     654322",
+      "discount": "15%",
+      "laboratory": "Chiesi",
+      "referencePrice": "15.95",
+      "tax": "4.5%",
+      "pvl": "15.95",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "720760",
+      "description": "Pantecta 40 mg. 28 c�psulas     907089",
+      "discount": "12%",
+      "laboratory": "Takeda",
+      "referencePrice": "11.2045454545455",
+      "tax": "4.5%",
+      "pvl": "11.2045454545455",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "707615",
+      "description": "Anagastra 40 mg. 28 c�psulas 926519",
+      "discount": "22%",
+      "laboratory": "Takeda",
+      "referencePrice": "11.2045454545455",
+      "tax": "4.5%",
+      "pvl": "11.2045454545455",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "705940",
+      "description": "Urorec 8 Mg. 30 c�psulas    665751",
+      "discount": "9%",
+      "laboratory": "Recordati",
+      "referencePrice": "16.77",
+      "tax": "4.5%",
+      "pvl": "16.77",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "665896",
+      "description": "Micardis 80 mg. 28 comprimidos    656578",
+      "discount": "9%",
+      "laboratory": "BOEHRINGER",
+      "referencePrice": "12.7894736842105",
+      "tax": "4.5%",
+      "pvl": "12.7894736842105",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "665916",
+      "description": "Micardis Plus 80/12,5 mg. 28 comprimidos   656581",
+      "discount": "9%",
+      "laboratory": "BOEHRINGER",
+      "referencePrice": "12.4",
+      "tax": "4.5%",
+      "pvl": "12.4",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "708964",
+      "description": "Movicol 20 SOBRES     672287",
+      "discount": "9%",
+      "laboratory": "Norgine",
+      "referencePrice": "8.83",
+      "tax": "4.5%",
+      "pvl": "8.83",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "708965",
+      "description": "Movicol 30 SOBRES     677291",
+      "discount": "9%",
+      "laboratory": "Norgine",
+      "referencePrice": "10.38",
+      "tax": "4.5%",
+      "pvl": "10.38",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "709726",
+      "description": "Arava 20 Mg. 30 comprimidos     848135",
+      "discount": "4%",
+      "laboratory": "Sanofi",
+      "referencePrice": "34.54",
+      "tax": "4.5%",
+      "pvl": "34.54",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "711690",
+      "description": "Donabel 2 mg. /0,03 mg. 21 comprimidos 664596",
+      "discount": "17%",
+      "laboratory": "Effik",
+      "referencePrice": "10",
+      "tax": "4.5%",
+      "pvl": "10",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "701880",
+      "description": "Sebiprox Champ�          930545",
+      "discount": "5%",
+      "laboratory": "Stiefel",
+      "referencePrice": "8.45",
+      "tax": "4.5%",
+      "pvl": "8.45",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "665912",
+      "description": "Cialis 20 Mg. 4 comprimidos 872291",
+      "discount": "9%",
+      "laboratory": "LILLY",
+      "referencePrice": "48.93",
+      "tax": "4.5%",
+      "pvl": "48.93",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "720787",
+      "description": "Cymbalta 60 Mg. 28 c�psulas 651479",
+      "discount": "6%",
+      "laboratory": "LILLY",
+      "referencePrice": "17.13",
+      "tax": "4.5%",
+      "pvl": "17.13",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "712500",
+      "description": "Pyralvex solicion 10 ml. 813642",
+      "discount": "10%",
+      "laboratory": "MEDA PHARMA",
+      "referencePrice": "5.19",
+      "tax": "4.5%",
+      "pvl": "4.93",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "712908",
+      "description": "Ebixa 20 Mg 56 comp rec.  661012",
+      "discount": "20%",
+      "laboratory": "Lundbeck",
+      "referencePrice": "92.74",
+      "tax": "4.5%",
+      "pvl": "92.74",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "715027",
+      "description": "Singulair 5 Mg 28 comprimidos       662064",
+      "discount": "7%",
+      "laboratory": "MSD",
+      "referencePrice": "13.49",
+      "tax": "4.5%",
+      "pvl": "13.49",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "715028",
+      "description": "Singulair 10 Mg 28 comprimidos    662056",
+      "discount": "7%",
+      "laboratory": "MSD",
+      "referencePrice": "13.49",
+      "tax": "4.5%",
+      "pvl": "13.49",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "711688",
+      "description": "Drosure diario 28 comprimidos  668065",
+      "discount": "15%",
+      "laboratory": "Effik",
+      "referencePrice": "8.5",
+      "tax": "4.5%",
+      "pvl": "8.5",
+      "pvl_pvf": "true"
+    },
+    {
+      "cn": "584753",
+      "description": "Scalibor collar 48 cm",
+      "discount": "",
+      "laboratory": "Intervet",
+      "referencePrice": "16",
+      "tax": "11.4%",
+      "pvl": "",
+      "pvl_pvf": "false"
+    },
+    {
+      "cn": "584752",
+      "description": "Scalibor collar 65 cm",
+      "discount": "",
+      "laboratory": "Intervet",
+      "referencePrice": "16",
+      "tax": "11.4%",
+      "pvl": "",
+      "pvl_pvf": "false"
+    }
+  ]
+}
